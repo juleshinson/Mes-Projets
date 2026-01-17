@@ -1,0 +1,290 @@
+\doxysection{world.\+h File Reference}
+\hypertarget{world_8h}{}\label{world_8h}\index{world.h@{world.h}}
+
+
+en-\/tête de la partie logique des données du monde  
+
+
+{\ttfamily \#include "{}constantes.\+h"{}}\newline
+{\ttfamily \#include "{}sdl2-\/light.\+h"{}}\newline
+{\ttfamily \#include "{}sdl2-\/ttf-\/light.\+h"{}}\newline
+Include dependency graph for world.\+h\+:
+% FIG 0
+This graph shows which files directly or indirectly include this file\+:
+% FIG 1
+\doxysubsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structsprite__s}{sprite\+\_\+s}}
+\begin{DoxyCompactList}\small\item\em Coordonnés d\textquotesingle{}un élément du monde du jeu. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structworld__s}{world\+\_\+s}}
+\begin{DoxyCompactList}\small\item\em Représentation du monde du jeu. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Typedefs}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{world_8h_a5371414b10358aeda7c6bcec8196342f}\label{world_8h_a5371414b10358aeda7c6bcec8196342f} 
+typedef struct \mbox{\hyperlink{structsprite__s}{sprite\+\_\+s}} {\bfseries sprite\+\_\+t}
+\begin{DoxyCompactList}\small\item\em Type qui correspond aux coordonnées des éléments du jeu. \end{DoxyCompactList}\item 
+\Hypertarget{world_8h_ad55869c5e54f717062ec699d20fa8886}\label{world_8h_ad55869c5e54f717062ec699d20fa8886} 
+typedef struct \mbox{\hyperlink{structworld__s}{world\+\_\+s}} {\bfseries world\+\_\+t}
+\begin{DoxyCompactList}\small\item\em Type qui correspond aux données du monde. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{world_8h_a7edf5248c9929108f571836fb92f204a}{init\+\_\+sprite}} (\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}sprite, int x, int y, int w, int h)
+\begin{DoxyCompactList}\small\item\em La fonction qui initialise les coordonnées des éléments. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_aadc0501db2f14490919d18659d84a8f7}{print\+\_\+sprint}} (\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}sprite)
+\begin{DoxyCompactList}\small\item\em La fonction qui affiche les positions du sprite. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_a4e842a72a730dd3d5ce299ac082bbed9}{init\+\_\+walls}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction initialise les données les murs de météorites. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_a5676e72ded3c1a993c4c975ef9958288}{init\+\_\+data}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction initialise les données du monde du jeu. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_abcbee1dbb5697f9d0de3f737f9c7aafe}{clean\+\_\+data}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction nettoie les données du monde. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{world_8h_a87c51ee2e71f0707b7c964afc414f556}{is\+\_\+game\+\_\+over}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction indique si le jeu est fini en fonction des données du monde. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_a611fb67fa0386eac0c6f7f546ea979c2}{verif\+\_\+marge}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction verifie si on a atteint les marges de l\textquotesingle{}écran. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{world_8h_aa35f099a7e2fcb62d60f44d7a061f151}{sprites\+\_\+collide}} (\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}sp1, \mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}sp2)
+\begin{DoxyCompactList}\small\item\em La fonction indique si les 2 sprites passés en paramètres sont en collision. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_ac29a8c6d0dc61f018c6a3e89894a1cd5}{handle\+\_\+sprites\+\_\+collision}} (\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}sp1, \mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}sp2, \mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction annule la vitesse de déplacement verticale vy si les 2 sprites passés en paramètres sont en collision. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_a1127cba1580be54784247f3c1afb562f}{update\+\_\+walls}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction met à jour les données du mur en tenant compte de la physique du monde. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_a530dc31238adf9f619ef73d6fee95590}{tir\+\_\+missile}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em Gère le tir du missile et sa collision avec les murs. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_a6c91f82a5ece8b14628159353390adf4}{update\+\_\+data}} (\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction met à jour les données en tenant compte de la physique du monde. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{world_8h_a947b9f8960b2202788f43c71fbaa9d67}{handle\+\_\+events}} (SDL\+\_\+\+Event \texorpdfstring{$\ast$}{*}event, \mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}world)
+\begin{DoxyCompactList}\small\item\em La fonction gère les évènements ayant eu lieu et qui n\textquotesingle{}ont pas encore été traités. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+en-\/tête de la partie logique des données du monde 
+
+\begin{DoxyAuthor}{Author}
+Jules Hinson / Ahoomey-\/\+Zunu Nandi 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+0.\+2 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+5 avril 2025 
+\end{DoxyDate}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{world_8h_abcbee1dbb5697f9d0de3f737f9c7aafe}\label{world_8h_abcbee1dbb5697f9d0de3f737f9c7aafe} 
+\index{world.h@{world.h}!clean\_data@{clean\_data}}
+\index{clean\_data@{clean\_data}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{clean\_data()}{clean\_data()}}
+{\footnotesize\ttfamily void clean\+\_\+data (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction nettoie les données du monde. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a947b9f8960b2202788f43c71fbaa9d67}\label{world_8h_a947b9f8960b2202788f43c71fbaa9d67} 
+\index{world.h@{world.h}!handle\_events@{handle\_events}}
+\index{handle\_events@{handle\_events}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{handle\_events()}{handle\_events()}}
+{\footnotesize\ttfamily void handle\+\_\+events (\begin{DoxyParamCaption}\item[{SDL\+\_\+\+Event \texorpdfstring{$\ast$}{*}}]{event,  }\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction gère les évènements ayant eu lieu et qui n\textquotesingle{}ont pas encore été traités. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em event} & paramètre qui contient les événements \\
+\hline
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_ac29a8c6d0dc61f018c6a3e89894a1cd5}\label{world_8h_ac29a8c6d0dc61f018c6a3e89894a1cd5} 
+\index{world.h@{world.h}!handle\_sprites\_collision@{handle\_sprites\_collision}}
+\index{handle\_sprites\_collision@{handle\_sprites\_collision}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{handle\_sprites\_collision()}{handle\_sprites\_collision()}}
+{\footnotesize\ttfamily void handle\+\_\+sprites\+\_\+collision (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{sp1,  }\item[{\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{sp2,  }\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction annule la vitesse de déplacement verticale vy si les 2 sprites passés en paramètres sont en collision. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sp1} & le premier sprite \\
+\hline
+{\em sp2} & le deuxième sprite \\
+\hline
+{\em world} & le monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a5676e72ded3c1a993c4c975ef9958288}\label{world_8h_a5676e72ded3c1a993c4c975ef9958288} 
+\index{world.h@{world.h}!init\_data@{init\_data}}
+\index{init\_data@{init\_data}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{init\_data()}{init\_data()}}
+{\footnotesize\ttfamily void init\+\_\+data (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction initialise les données du monde du jeu. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a7edf5248c9929108f571836fb92f204a}\label{world_8h_a7edf5248c9929108f571836fb92f204a} 
+\index{world.h@{world.h}!init\_sprite@{init\_sprite}}
+\index{init\_sprite@{init\_sprite}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{init\_sprite()}{init\_sprite()}}
+{\footnotesize\ttfamily void init\+\_\+sprite (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{sprite,  }\item[{int}]{x,  }\item[{int}]{y,  }\item[{int}]{w,  }\item[{int}]{h }\end{DoxyParamCaption})}
+
+
+
+La fonction qui initialise les coordonnées des éléments. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sprite} & Un élément du jeu \\
+\hline
+{\em x} & abscisse du sprite \\
+\hline
+{\em y} & oronnéee du sprite \\
+\hline
+{\em w} & largeur du sprite \\
+\hline
+{\em h} & hauteur du sprite \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a4e842a72a730dd3d5ce299ac082bbed9}\label{world_8h_a4e842a72a730dd3d5ce299ac082bbed9} 
+\index{world.h@{world.h}!init\_walls@{init\_walls}}
+\index{init\_walls@{init\_walls}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{init\_walls()}{init\_walls()}}
+{\footnotesize\ttfamily void init\+\_\+walls (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction initialise les données les murs de météorites. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a87c51ee2e71f0707b7c964afc414f556}\label{world_8h_a87c51ee2e71f0707b7c964afc414f556} 
+\index{world.h@{world.h}!is\_game\_over@{is\_game\_over}}
+\index{is\_game\_over@{is\_game\_over}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{is\_game\_over()}{is\_game\_over()}}
+{\footnotesize\ttfamily int is\+\_\+game\+\_\+over (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction indique si le jeu est fini en fonction des données du monde. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+1 si le jeu est fini, 0 sinon 
+\end{DoxyReturn}
+\Hypertarget{world_8h_aadc0501db2f14490919d18659d84a8f7}\label{world_8h_aadc0501db2f14490919d18659d84a8f7} 
+\index{world.h@{world.h}!print\_sprint@{print\_sprint}}
+\index{print\_sprint@{print\_sprint}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{print\_sprint()}{print\_sprint()}}
+{\footnotesize\ttfamily void print\+\_\+sprint (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{sprite }\end{DoxyParamCaption})}
+
+
+
+La fonction qui affiche les positions du sprite. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sprite} & Un élement du jeu \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_aa35f099a7e2fcb62d60f44d7a061f151}\label{world_8h_aa35f099a7e2fcb62d60f44d7a061f151} 
+\index{world.h@{world.h}!sprites\_collide@{sprites\_collide}}
+\index{sprites\_collide@{sprites\_collide}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{sprites\_collide()}{sprites\_collide()}}
+{\footnotesize\ttfamily int sprites\+\_\+collide (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{sp1,  }\item[{\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{sp2 }\end{DoxyParamCaption})}
+
+
+
+La fonction indique si les 2 sprites passés en paramètres sont en collision. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sp1} & le premier sprite \\
+\hline
+{\em sp2} & le deuxième sprite \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a530dc31238adf9f619ef73d6fee95590}\label{world_8h_a530dc31238adf9f619ef73d6fee95590} 
+\index{world.h@{world.h}!tir\_missile@{tir\_missile}}
+\index{tir\_missile@{tir\_missile}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{tir\_missile()}{tir\_missile()}}
+{\footnotesize\ttfamily void tir\+\_\+missile (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+Gère le tir du missile et sa collision avec les murs. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & le monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a6c91f82a5ece8b14628159353390adf4}\label{world_8h_a6c91f82a5ece8b14628159353390adf4} 
+\index{world.h@{world.h}!update\_data@{update\_data}}
+\index{update\_data@{update\_data}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{update\_data()}{update\_data()}}
+{\footnotesize\ttfamily void update\+\_\+data (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction met à jour les données en tenant compte de la physique du monde. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a1127cba1580be54784247f3c1afb562f}\label{world_8h_a1127cba1580be54784247f3c1afb562f} 
+\index{world.h@{world.h}!update\_walls@{update\_walls}}
+\index{update\_walls@{update\_walls}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{update\_walls()}{update\_walls()}}
+{\footnotesize\ttfamily void update\+\_\+walls (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction met à jour les données du mur en tenant compte de la physique du monde. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}
+\Hypertarget{world_8h_a611fb67fa0386eac0c6f7f546ea979c2}\label{world_8h_a611fb67fa0386eac0c6f7f546ea979c2} 
+\index{world.h@{world.h}!verif\_marge@{verif\_marge}}
+\index{verif\_marge@{verif\_marge}!world.h@{world.h}}
+\doxysubsubsection{\texorpdfstring{verif\_marge()}{verif\_marge()}}
+{\footnotesize\ttfamily void verif\+\_\+marge (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{world_8h_ad55869c5e54f717062ec699d20fa8886}{world\+\_\+t}} \texorpdfstring{$\ast$}{*}}]{world }\end{DoxyParamCaption})}
+
+
+
+La fonction verifie si on a atteint les marges de l\textquotesingle{}écran. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em world} & les données du monde \\
+\hline
+\end{DoxyParams}

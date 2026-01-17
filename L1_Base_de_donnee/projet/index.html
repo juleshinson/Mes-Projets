@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Connexion – BIBLIO.com</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    <nav>
+        <div class="site">
+            <img src="action/image/entete.jpg" alt="entete">
+            <h1>BIBLIO.com</h1>
+        </div>
+    </nav>
+
+    
+    <section class="contenu">
+        <header>
+            <h1>Bonjour !</h1>
+            <p>
+                Plongez dans l'univers des livres sans attendre ! Réservez vos ouvrages préférés en quelques clics et accédez à un vaste catalogue de romans, essais, BD et plus encore.
+                Simplifiez vos emprunts, explorez nos nouveautés et laissez-vous guider par vos envies de lecture !
+            </p>
+            <h3>Connectez-vous / Inscrivez-vous dès maintenant !</h3>
+        </header>
+
+        
+        <section class="connect-inscri">
+            <div class="accroche">
+                <h1>Votre bibliothèque en ligne</h1>
+                <p>Réservez vos livres maintenant et profitez !</p>
+            </div>
+
+            <!-- Formulaire de connexion -->
+            <div class="connect">
+                <form onsubmit="return verifierConnexion()" action="action/php/verifie_connexion.php" method="get">
+                    <h1>Connexion</h1>
+
+                    
+                    <label for="mail">Mail :</label>
+                    <input type="text" name="mail" id="mail">
+                    <br><br>
+
+                    
+                    <label for="mdp">Mot de passe :</label>
+                    <input type="password" name="mdp" id="mdp">
+                    <br><br>
+
+                    
+                    <input type="submit" id="connexion" value="Connexion">
+                </form>
+
+                <!-- Lien vers la page d'inscription -->
+                <a href="action/php/inscription.php">Inscrivez-vous</a>
+            </div>
+        </section>
+    </section>
+</body>
+</html>

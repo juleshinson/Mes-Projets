@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Compte rendu projet de synthèse 2</title>
+  <link href="style.css"  rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <header>
+        <h1>Présentation du jeu</h1>
+    </header>
+    <section>
+        <h2>🧑‍💻👨‍💻Développé par</h2> 
+            <ul>
+               <li>Nandi AHOOMEY-ZUNU</li>
+               <li>Jules HINSON</li> 
+            </ul>
+        
+    </section>
+    <section>
+        <h2>📜 Description du jeu</h2>
+        <p>Il s'agit d'un jeu d'arcade mettant en scène un vaisseau spatial et des murs de météorites.<br>
+        Le jeu commence par un affichage pour donner au joueur le temps de se préparer. Dès le début du jeu le vaisseau et les premiers murs apparaissent.
+        La musique de fond commence.<br> Le jeu est mis en pause grâce à la touche "p" et est repris grâce à cette même touche. Pour lancer un missile c'est avec la touche "Espace".
+        Si le missile touche un mur, les deux disparaissent avec un bruit de collision.
+        Un message d'encouragement s'affiche. Initialement le joueur a droit à 4 missiles mais grâce à un but il peut en obtenir deux de plus dans ce cas un bref son de victoire retentit. Un message s'affiche rapidement pour l'en informer.<br> En cas de collision du vaisseau 
+        avec un mur c'est un échec et le jeu s'arrête. On a alors un message indiquant la défaite suivi d'un son dans le même ton.<br> En cas de victoire c'est-à-dire collision du vaisseau avec la ligne d'arrivée
+        un message de victoire indiquant le temps mis en secondes s'affiche suivi d'un son de victoire.<br> 2 secondes après la fin du jeu que ce soit par une victoire ou une défaite le jeu se ferme. </p>
+    </section>
+    <section>
+        <h2>💻 Description du code</h2>
+        <p>Le code est découpé en 2 modules.
+            <ul>
+                <li>Le module world constitué de world.h et de world.c.
+                    On y a regroupé les fonctions et les structures en rapport avec le monde du jeu(le sprite,les murs,...) </li>
+                <li>Le module graphiques constitué de graphiques.h et graphiques.c.
+                    On y a regroupé les fonctions et les structures en rapport avec l'affichage (les textures,les sons,...)
+                </li>
+            </ul>
+            On a aussi constantes.h où on a mis toutes les constantes utilisées dans le jeu.<br>
+            Et pour finir main.c c'est le fichier principal qui inclut tous les autres. On y trouve la boucle du jeu où on appelle toutes les fonctions.
+        </p>
+    </section>
+    <section>
+        <h2>🎮 Fonctionnalités développées</h2>
+        <ul>
+            <li>Déplacement du joueur avec les touches directionnelles</li>
+            <li>Ajout de murs supplémentaires pour allonger le parcours</li>
+            <li>Musique de fond</li>
+            <li>Effets sonores (défaite, victoire, collision)</li>
+            <li>Affichage de messages (défaite, victoire, encouragements)</li>
+            <li>Possibilité de mettre en pause le jeu</li>
+            <li>Ajouts de missiles</li>
+            <li>Ajout d'un but permettant d'obtenir des missiles bonus</li> 
+        </ul>
+    </section>
+
+    <section>
+        <h2>🐞 Bugs connus</h2>
+        <ul>
+            <li>Collisions parfois imprécises</li>
+            <li>Affichage de messages saccadé à certains moments</li>
+            <li>Lancement de missile entrainant quelques secondes de bug</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>📄 Documentation Doxygen</h2>
+        <p>Consultez la documentation technique générée avec Doxygen :<br>
+            <a href="../html/index.html" target="_blank">Documentation Doxygen</a>
+        </p>
+    </section>
+
+    <footer>
+        <p>© 2025 - Projet de synthèse 2 - Notre Super Jeu🚀</p>
+    </footer>
+</body>
+</html>

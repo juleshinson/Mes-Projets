@@ -1,0 +1,190 @@
+/* Enlève les marges par défaut du body */
+body {
+    margin: 0;
+}
+
+/* Barre de navigation */
+nav {
+    display: flex;                  /* Utilisation de Flexbox */
+    flex-direction: row;           /* Organisation horizontale */
+    flex-wrap: wrap;               /* Les éléments passent à la ligne si besoin */
+    justify-content: space-between;/* Espacement équitable entre les éléments */
+    align-items: center;           /* Centrage vertical */
+    position: sticky;
+    top: 0;                        /* La navbar reste visible en haut lors du scroll */
+    background-color: rgb(204, 99, 0); /* Couleur orange foncé */
+    padding: 0 0%;
+}
+
+/* Contenu gauche de la navbar : logo + titre */
+nav .site {
+    display: flex;
+    align-items: center;
+}
+
+nav .site img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;           /* Image en rond */
+}
+
+nav .site h1 {
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+/* Menu de navigation */
+nav ul {
+    display: flex;
+    list-style-type: none;        /* Enlève les puces */
+}
+
+nav ul li {
+    margin-right: 30px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(204, 99, 0); /* Ligne de base invisible */
+    font-size: 22px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li:hover {
+    border-bottom-color: black;   /* Soulignement au survol */
+}
+
+/* Zone principale de contenu */
+.contenu {
+    padding: 2,5%;                 
+    margin-left: 3%;
+}
+
+/* En-tête de la page */
+.contenu header {
+    margin-top: 5px;
+    max-width: 70%;               /* Limite la largeur pour ne pas étirer le texte */
+}
+
+.contenu header h1 {
+    font-size: 33px;
+    margin: 0;
+}
+
+.contenu header p {
+    line-height: 27px;            /* Espacement vertical du texte */
+    color: #616161;
+}
+
+/* Section contenant les livres */
+.contenu .livres-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    max-width: 90%;
+    padding-left: 10%;
+    align-items: baseline;
+}
+
+/* Bloc individuel pour un livre */
+.livres-section .livre {
+    max-width: 25%;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding: 4%;
+}
+
+.livres-section .livre img {
+    width: 200px;
+    height: 300px;
+}
+
+/* Style du nom de l’auteur */
+.livres-section .livre .auteur {
+    font-weight: bold;
+}
+
+/* Style du titre */
+.livres-section .livre .titre {
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+
+/* Effet hover sur les liens des livres */
+.livres-section .livre a:hover {
+    font-size: 22px;
+    border-bottom: solid 1px black;
+}
+
+/* Zone de connexion/inscription */
+.contenu .connect-inscri {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 10%;
+    padding: 5%;
+}
+
+/* Bloc d’accroche à gauche (texte de bienvenue, etc.) */
+.contenu .connect-inscri .accroche {
+    margin-right: 10%;
+}
+
+.contenu .connect-inscri .accroche h1 {
+    color: rgb(204, 99, 0);
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+
+.contenu .connect-inscri .accroche p {
+    font-size: 20px;
+}
+
+/* Formulaire de connexion */
+.contenu .connect-inscri .connect form {
+    margin-bottom: 20%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom: #616161 solid 1px;
+}
+
+/* Bouton de connexion */
+.contenu .connect-inscri .connect form #connexion {
+    background-color: rgb(204, 99, 0);
+}
+
+/* Lien vers la page d'inscription */
+.contenu .connect-inscri .connect a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 132, 255);
+    padding: 1% 5%;
+    border-radius: 5%;
+    font-size: 24px;
+}
+
+.contenu .connect-inscri .connect a:hover {
+    font-size: 26px;
+}
+
+/* Pied de page */
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 5%;
+}
+
+/* Bouton d’annulation de réservation */
+#annuler {
+    background-color: rgb(223, 64, 64); 
+}

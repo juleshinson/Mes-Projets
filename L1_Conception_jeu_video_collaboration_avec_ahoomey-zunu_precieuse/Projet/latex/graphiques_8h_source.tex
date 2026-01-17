@@ -1,0 +1,62 @@
+\doxysection{graphiques.\+h}
+\hypertarget{graphiques_8h_source}{}\label{graphiques_8h_source}\mbox{\hyperlink{graphiques_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ }
+\DoxyCodeLine{00009\ \textcolor{preprocessor}{\#ifndef\ GRAPHIQUES\_H}}
+\DoxyCodeLine{00010\ \textcolor{preprocessor}{\#define\ GRAPHIQUES\_H}}
+\DoxyCodeLine{00011\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{constantes_8h}{constantes.h}}"{}}}
+\DoxyCodeLine{00012\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{world_8h}{world.h}}"{}}}
+\DoxyCodeLine{00013\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{sdl2-light_8h}{sdl2-\/light.h}}"{}}}
+\DoxyCodeLine{00014\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{sdl2-ttf-light_8h}{sdl2-\/ttf-\/light.h}}"{}}}
+\DoxyCodeLine{00015\ \textcolor{preprocessor}{\#include\ <SDL2/SDL\_mixer.h>}}
+\DoxyCodeLine{00016\ }
+\DoxyCodeLine{00017\ }
+\DoxyCodeLine{00021\ \textcolor{keyword}{struct\ }\mbox{\hyperlink{structtextures__s}{textures\_s}}\{}
+\DoxyCodeLine{00022\ }
+\DoxyCodeLine{00023\ \ \ \ \ SDL\_Texture*\ \mbox{\hyperlink{structtextures__s_ac5a1f841b5f51e5cfd814aacae582e66}{background}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00025\ \ \ \ \ SDL\_Texture*\ \mbox{\hyperlink{structtextures__s_a14c87aa02643429be0697fa1d8df31ef}{spaceship}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00027\ \ \ \ \ SDL\_Texture*\ \mbox{\hyperlink{structtextures__s_addc69539535dfb44144aa4b3478392aa}{finish}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00029\ \ \ \ \ SDL\_Texture*\ \mbox{\hyperlink{structtextures__s_acfa030c57c19f6fb26ae979bfabfd252}{meteorite}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00031\ \ \ \ \ TTF\_Font*\ \mbox{\hyperlink{structtextures__s_ae2abf34bb06c64bc9dab786cadad003a}{font}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00033\ \ \ \ \ SDL\_Texture*\ \mbox{\hyperlink{structtextures__s_ade850d6df8af038dd9ddf01875662481}{missile}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00035\ \ \ \ \ SDL\_Texture*\ \mbox{\hyperlink{structtextures__s_ada818b6e5d652bb953bad497f2d68ac8}{but}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00037\ \ \ \ \ Mix\_Music*\ \mbox{\hyperlink{structtextures__s_af7b9cc3e3838b77c0bb61dab65c5412a}{music}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00039\ \ \ \ \ Mix\_Chunk*\ \mbox{\hyperlink{structtextures__s_afe3c3d808aed0baabbda803957ed98e2}{sound\_win}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00041\ \ \ \ \ Mix\_Chunk*\ \mbox{\hyperlink{structtextures__s_aea3a7b861b1aa2f3f8b19e915c271d28}{sound\_lose}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00043\ \ \ \ \ Mix\_Chunk*\ \mbox{\hyperlink{structtextures__s_a62c2005f91a51ed0357594814bd82125}{sound\_explosion}};\ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00045\ \ \ \ \ Mix\_Chunk*\ \mbox{\hyperlink{structtextures__s_a3abafb36488746664947959539f6228b}{sound\_mini\_explosion}};\ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00047\ \ \ \ \ Mix\_Chunk*\ \mbox{\hyperlink{structtextures__s_abd328af60d9058500b41d6b627c40647}{sound\_mini\_win}};\ \ \ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00049\ \};}
+\DoxyCodeLine{00050\ }
+\DoxyCodeLine{00051\ }
+\DoxyCodeLine{00055\ \textcolor{keyword}{typedef}\ \textcolor{keyword}{struct\ }\mbox{\hyperlink{structtextures__s}{textures\_s}}\ \mbox{\hyperlink{structtextures__s}{ressources}};}
+\DoxyCodeLine{00056\ }
+\DoxyCodeLine{00057\ }
+\DoxyCodeLine{00062\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_ab24829668b336abcec627d849880a2ca}{clean\_textures}}(\mbox{\hyperlink{structtextures__s}{ressources}}\ *textures);}
+\DoxyCodeLine{00063\ }
+\DoxyCodeLine{00064\ }
+\DoxyCodeLine{00070\ \textcolor{keywordtype}{void}\ \ \mbox{\hyperlink{graphiques_8h_ac9882afb54d95e3b36e1de103474295e}{init\_textures}}(SDL\_Renderer\ *renderer,\ \mbox{\hyperlink{structtextures__s}{ressources}}\ *textures);}
+\DoxyCodeLine{00071\ }
+\DoxyCodeLine{00072\ }
+\DoxyCodeLine{00078\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_aea7db68b68a4dffee7ecefff565f988f}{apply\_background}}(SDL\_Renderer\ *renderer,\ SDL\_Texture\ *texture);}
+\DoxyCodeLine{00079\ }
+\DoxyCodeLine{00080\ }
+\DoxyCodeLine{00087\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_a1d3be1f25017a0acd88a72bafbb70730}{apply\_sprite}}(SDL\_Renderer\ *renderer,SDL\_Texture\ *texture,\mbox{\hyperlink{structsprite__s}{sprite\_t}}\ *\ sprite);}
+\DoxyCodeLine{00088\ }
+\DoxyCodeLine{00089\ }
+\DoxyCodeLine{00096\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_a50022b1ced36a67324fdb4f2092c7998}{apply\_walls}}(SDL\_Renderer\ *renderer,SDL\_Texture\ *texture,\mbox{\hyperlink{structsprite__s}{sprite\_t}}\ *\ sprite);}
+\DoxyCodeLine{00097\ }
+\DoxyCodeLine{00098\ }
+\DoxyCodeLine{00105\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_aea6f4798dec4460191399a025352ad2c}{if\_apply\_walls}}(SDL\_Renderer\ *renderer,SDL\_Texture\ *texture,\mbox{\hyperlink{structworld__s}{world\_t}}\ *\ world);}
+\DoxyCodeLine{00106\ }
+\DoxyCodeLine{00113\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_a2fe26ed79a6c399316370b31c205823f}{refresh\_graphics}}(SDL\_Renderer\ *renderer,\ \mbox{\hyperlink{structworld__s}{world\_t}}\ *world,\mbox{\hyperlink{structtextures__s}{ressources}}\ *textures);}
+\DoxyCodeLine{00114\ }
+\DoxyCodeLine{00115\ }
+\DoxyCodeLine{00123\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_a1865a5a37b41ac0f92f5754e5d9b41ca}{init}}(SDL\_Window\ **window,\ SDL\_Renderer\ **\ renderer,\ \mbox{\hyperlink{structtextures__s}{ressources}}\ *textures,\ \mbox{\hyperlink{structworld__s}{world\_t}}\ *\ world);}
+\DoxyCodeLine{00124\ }
+\DoxyCodeLine{00132\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{graphiques_8h_a3ef031cb51fe32eca320bc67a2462bc4}{clean}}(SDL\_Window\ *window,\ SDL\_Renderer\ *\ renderer,\ \mbox{\hyperlink{structtextures__s}{ressources}}\ *textures,\ \mbox{\hyperlink{structworld__s}{world\_t}}\ *\ world);}
+\DoxyCodeLine{00133\ }
+\DoxyCodeLine{00134\ }
+\DoxyCodeLine{00135\ \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

@@ -1,0 +1,151 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Class Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Class List}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}File Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}File List}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Class Documentation}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}sprite\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}s Struct Reference}{5}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Detailed Description}{5}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Member Data Documentation}{5}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}h}{5}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}make\_disappear}{5}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.3}message}{6}{subsubsection.3.1.2.3}%
+\contentsline {subsubsection}{\numberline {3.1.2.4}w}{6}{subsubsection.3.1.2.4}%
+\contentsline {subsubsection}{\numberline {3.1.2.5}x}{6}{subsubsection.3.1.2.5}%
+\contentsline {subsubsection}{\numberline {3.1.2.6}y}{6}{subsubsection.3.1.2.6}%
+\contentsline {section}{\numberline {3.2}textures\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}s Struct Reference}{6}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Detailed Description}{7}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Member Data Documentation}{7}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}background}{7}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}but}{7}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}finish}{7}{subsubsection.3.2.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.2.4}font}{7}{subsubsection.3.2.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.2.5}meteorite}{7}{subsubsection.3.2.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.2.6}missile}{7}{subsubsection.3.2.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.2.7}music}{8}{subsubsection.3.2.2.7}%
+\contentsline {subsubsection}{\numberline {3.2.2.8}sound\_explosion}{8}{subsubsection.3.2.2.8}%
+\contentsline {subsubsection}{\numberline {3.2.2.9}sound\_lose}{8}{subsubsection.3.2.2.9}%
+\contentsline {subsubsection}{\numberline {3.2.2.10}sound\_mini\_explosion}{8}{subsubsection.3.2.2.10}%
+\contentsline {subsubsection}{\numberline {3.2.2.11}sound\_mini\_win}{8}{subsubsection.3.2.2.11}%
+\contentsline {subsubsection}{\numberline {3.2.2.12}sound\_win}{8}{subsubsection.3.2.2.12}%
+\contentsline {subsubsection}{\numberline {3.2.2.13}spaceship}{8}{subsubsection.3.2.2.13}%
+\contentsline {section}{\numberline {3.3}world\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}s Struct Reference}{9}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Detailed Description}{9}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Member Data Documentation}{9}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}but}{9}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}collision\_but}{9}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.3}compteur\_missile\_max}{9}{subsubsection.3.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.3.2.4}debut\_temps}{10}{subsubsection.3.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.3.2.5}finish\_line}{10}{subsubsection.3.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.3.2.6}gameover}{10}{subsubsection.3.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.3.2.7}message\_final}{10}{subsubsection.3.3.2.7}%
+\contentsline {subsubsection}{\numberline {3.3.2.8}missile}{10}{subsubsection.3.3.2.8}%
+\contentsline {subsubsection}{\numberline {3.3.2.9}sprite}{10}{subsubsection.3.3.2.9}%
+\contentsline {subsubsection}{\numberline {3.3.2.10}stop}{10}{subsubsection.3.3.2.10}%
+\contentsline {subsubsection}{\numberline {3.3.2.11}temps\_final}{10}{subsubsection.3.3.2.11}%
+\contentsline {subsubsection}{\numberline {3.3.2.12}vy}{11}{subsubsection.3.3.2.12}%
+\contentsline {subsubsection}{\numberline {3.3.2.13}walls}{11}{subsubsection.3.3.2.13}%
+\contentsline {chapter}{\numberline {4}File Documentation}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}constantes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h File Reference}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}constantes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}graphiques.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}c File Reference}{13}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Detailed Description}{14}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Function Documentation}{14}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}apply\_background()}{14}{subsubsection.4.3.2.1}%
+\contentsline {subsubsection}{\numberline {4.3.2.2}apply\_sprite()}{15}{subsubsection.4.3.2.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.3}apply\_walls()}{15}{subsubsection.4.3.2.3}%
+\contentsline {subsubsection}{\numberline {4.3.2.4}clean()}{15}{subsubsection.4.3.2.4}%
+\contentsline {subsubsection}{\numberline {4.3.2.5}clean\_textures()}{16}{subsubsection.4.3.2.5}%
+\contentsline {subsubsection}{\numberline {4.3.2.6}if\_apply\_walls()}{16}{subsubsection.4.3.2.6}%
+\contentsline {subsubsection}{\numberline {4.3.2.7}init()}{16}{subsubsection.4.3.2.7}%
+\contentsline {subsubsection}{\numberline {4.3.2.8}init\_textures()}{17}{subsubsection.4.3.2.8}%
+\contentsline {subsubsection}{\numberline {4.3.2.9}refresh\_graphics()}{17}{subsubsection.4.3.2.9}%
+\contentsline {section}{\numberline {4.4}graphiques.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h File Reference}{17}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Detailed Description}{18}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Function Documentation}{18}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.1}apply\_background()}{18}{subsubsection.4.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.4.2.2}apply\_sprite()}{19}{subsubsection.4.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.3}apply\_walls()}{19}{subsubsection.4.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.4.2.4}clean()}{19}{subsubsection.4.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.4.2.5}clean\_textures()}{20}{subsubsection.4.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.4.2.6}if\_apply\_walls()}{20}{subsubsection.4.4.2.6}%
+\contentsline {subsubsection}{\numberline {4.4.2.7}init()}{20}{subsubsection.4.4.2.7}%
+\contentsline {subsubsection}{\numberline {4.4.2.8}init\_textures()}{21}{subsubsection.4.4.2.8}%
+\contentsline {subsubsection}{\numberline {4.4.2.9}refresh\_graphics()}{21}{subsubsection.4.4.2.9}%
+\contentsline {section}{\numberline {4.5}graphiques.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{21}{section.4.5}%
+\contentsline {section}{\numberline {4.6}main.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}c File Reference}{22}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Detailed Description}{22}{subsection.4.6.1}%
+\contentsline {section}{\numberline {4.7}sdl2-\/light.c File Reference}{23}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Detailed Description}{23}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Function Documentation}{24}{subsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.1}apply\_texture()}{24}{subsubsection.4.7.2.1}%
+\contentsline {subsubsection}{\numberline {4.7.2.2}clean\_chunk()}{24}{subsubsection.4.7.2.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.3}clean\_music()}{24}{subsubsection.4.7.2.3}%
+\contentsline {subsubsection}{\numberline {4.7.2.4}clean\_sdl()}{24}{subsubsection.4.7.2.4}%
+\contentsline {subsubsection}{\numberline {4.7.2.5}clean\_texture()}{26}{subsubsection.4.7.2.5}%
+\contentsline {subsubsection}{\numberline {4.7.2.6}clear\_renderer()}{26}{subsubsection.4.7.2.6}%
+\contentsline {subsubsection}{\numberline {4.7.2.7}init\_sdl()}{26}{subsubsection.4.7.2.7}%
+\contentsline {subsubsection}{\numberline {4.7.2.8}load\_image()}{27}{subsubsection.4.7.2.8}%
+\contentsline {subsubsection}{\numberline {4.7.2.9}pause()}{27}{subsubsection.4.7.2.9}%
+\contentsline {subsubsection}{\numberline {4.7.2.10}update\_screen()}{27}{subsubsection.4.7.2.10}%
+\contentsline {section}{\numberline {4.8}sdl2-\/light.h File Reference}{28}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Detailed Description}{28}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Function Documentation}{29}{subsection.4.8.2}%
+\contentsline {subsubsection}{\numberline {4.8.2.1}apply\_texture()}{29}{subsubsection.4.8.2.1}%
+\contentsline {subsubsection}{\numberline {4.8.2.2}clean\_chunk()}{29}{subsubsection.4.8.2.2}%
+\contentsline {subsubsection}{\numberline {4.8.2.3}clean\_music()}{29}{subsubsection.4.8.2.3}%
+\contentsline {subsubsection}{\numberline {4.8.2.4}clean\_sdl()}{29}{subsubsection.4.8.2.4}%
+\contentsline {subsubsection}{\numberline {4.8.2.5}clean\_texture()}{31}{subsubsection.4.8.2.5}%
+\contentsline {subsubsection}{\numberline {4.8.2.6}clear\_renderer()}{31}{subsubsection.4.8.2.6}%
+\contentsline {subsubsection}{\numberline {4.8.2.7}init\_sdl()}{31}{subsubsection.4.8.2.7}%
+\contentsline {subsubsection}{\numberline {4.8.2.8}load\_image()}{32}{subsubsection.4.8.2.8}%
+\contentsline {subsubsection}{\numberline {4.8.2.9}pause()}{32}{subsubsection.4.8.2.9}%
+\contentsline {subsubsection}{\numberline {4.8.2.10}update\_screen()}{32}{subsubsection.4.8.2.10}%
+\contentsline {section}{\numberline {4.9}sdl2-\/light.h}{33}{section.4.9}%
+\contentsline {section}{\numberline {4.10}sdl2-\/ttf-\/light.c File Reference}{33}{section.4.10}%
+\contentsline {subsection}{\numberline {4.10.1}Detailed Description}{34}{subsection.4.10.1}%
+\contentsline {subsection}{\numberline {4.10.2}Function Documentation}{34}{subsection.4.10.2}%
+\contentsline {subsubsection}{\numberline {4.10.2.1}apply\_text()}{34}{subsubsection.4.10.2.1}%
+\contentsline {subsubsection}{\numberline {4.10.2.2}clean\_font()}{34}{subsubsection.4.10.2.2}%
+\contentsline {subsubsection}{\numberline {4.10.2.3}load\_font()}{35}{subsubsection.4.10.2.3}%
+\contentsline {section}{\numberline {4.11}sdl2-\/ttf-\/light.h File Reference}{35}{section.4.11}%
+\contentsline {subsection}{\numberline {4.11.1}Detailed Description}{36}{subsection.4.11.1}%
+\contentsline {subsection}{\numberline {4.11.2}Function Documentation}{36}{subsection.4.11.2}%
+\contentsline {subsubsection}{\numberline {4.11.2.1}apply\_text()}{36}{subsubsection.4.11.2.1}%
+\contentsline {subsubsection}{\numberline {4.11.2.2}clean\_font()}{36}{subsubsection.4.11.2.2}%
+\contentsline {subsubsection}{\numberline {4.11.2.3}load\_font()}{37}{subsubsection.4.11.2.3}%
+\contentsline {section}{\numberline {4.12}sdl2-\/ttf-\/light.h}{37}{section.4.12}%
+\contentsline {section}{\numberline {4.13}world.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}c File Reference}{37}{section.4.13}%
+\contentsline {subsection}{\numberline {4.13.1}Detailed Description}{38}{subsection.4.13.1}%
+\contentsline {subsection}{\numberline {4.13.2}Function Documentation}{38}{subsection.4.13.2}%
+\contentsline {subsubsection}{\numberline {4.13.2.1}clean\_data()}{38}{subsubsection.4.13.2.1}%
+\contentsline {subsubsection}{\numberline {4.13.2.2}handle\_events()}{39}{subsubsection.4.13.2.2}%
+\contentsline {subsubsection}{\numberline {4.13.2.3}handle\_sprites\_collision()}{39}{subsubsection.4.13.2.3}%
+\contentsline {subsubsection}{\numberline {4.13.2.4}init\_data()}{39}{subsubsection.4.13.2.4}%
+\contentsline {subsubsection}{\numberline {4.13.2.5}init\_sprite()}{39}{subsubsection.4.13.2.5}%
+\contentsline {subsubsection}{\numberline {4.13.2.6}init\_walls()}{40}{subsubsection.4.13.2.6}%
+\contentsline {subsubsection}{\numberline {4.13.2.7}is\_game\_over()}{40}{subsubsection.4.13.2.7}%
+\contentsline {subsubsection}{\numberline {4.13.2.8}print\_sprint()}{40}{subsubsection.4.13.2.8}%
+\contentsline {subsubsection}{\numberline {4.13.2.9}sprites\_collide()}{41}{subsubsection.4.13.2.9}%
+\contentsline {subsubsection}{\numberline {4.13.2.10}tir\_missile()}{41}{subsubsection.4.13.2.10}%
+\contentsline {subsubsection}{\numberline {4.13.2.11}update\_data()}{41}{subsubsection.4.13.2.11}%
+\contentsline {subsubsection}{\numberline {4.13.2.12}update\_walls()}{41}{subsubsection.4.13.2.12}%
+\contentsline {subsubsection}{\numberline {4.13.2.13}verif\_marge()}{42}{subsubsection.4.13.2.13}%
+\contentsline {section}{\numberline {4.14}world.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h File Reference}{42}{section.4.14}%
+\contentsline {subsection}{\numberline {4.14.1}Detailed Description}{43}{subsection.4.14.1}%
+\contentsline {subsection}{\numberline {4.14.2}Function Documentation}{43}{subsection.4.14.2}%
+\contentsline {subsubsection}{\numberline {4.14.2.1}clean\_data()}{43}{subsubsection.4.14.2.1}%
+\contentsline {subsubsection}{\numberline {4.14.2.2}handle\_events()}{44}{subsubsection.4.14.2.2}%
+\contentsline {subsubsection}{\numberline {4.14.2.3}handle\_sprites\_collision()}{44}{subsubsection.4.14.2.3}%
+\contentsline {subsubsection}{\numberline {4.14.2.4}init\_data()}{44}{subsubsection.4.14.2.4}%
+\contentsline {subsubsection}{\numberline {4.14.2.5}init\_sprite()}{44}{subsubsection.4.14.2.5}%
+\contentsline {subsubsection}{\numberline {4.14.2.6}init\_walls()}{45}{subsubsection.4.14.2.6}%
+\contentsline {subsubsection}{\numberline {4.14.2.7}is\_game\_over()}{45}{subsubsection.4.14.2.7}%
+\contentsline {subsubsection}{\numberline {4.14.2.8}print\_sprint()}{45}{subsubsection.4.14.2.8}%
+\contentsline {subsubsection}{\numberline {4.14.2.9}sprites\_collide()}{46}{subsubsection.4.14.2.9}%
+\contentsline {subsubsection}{\numberline {4.14.2.10}tir\_missile()}{46}{subsubsection.4.14.2.10}%
+\contentsline {subsubsection}{\numberline {4.14.2.11}update\_data()}{46}{subsubsection.4.14.2.11}%
+\contentsline {subsubsection}{\numberline {4.14.2.12}update\_walls()}{46}{subsubsection.4.14.2.12}%
+\contentsline {subsubsection}{\numberline {4.14.2.13}verif\_marge()}{47}{subsubsection.4.14.2.13}%
+\contentsline {section}{\numberline {4.15}world.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{47}{section.4.15}%
+\contentsline {chapter}{Index}{49}{section*.17}%

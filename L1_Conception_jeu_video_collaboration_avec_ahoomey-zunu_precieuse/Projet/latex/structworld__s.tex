@@ -1,0 +1,133 @@
+\doxysection{world\+\_\+s Struct Reference}
+\hypertarget{structworld__s}{}\label{structworld__s}\index{world\_s@{world\_s}}
+
+
+Représentation du monde du jeu.  
+
+
+
+
+{\ttfamily \#include $<$world.\+h$>$}
+
+
+
+Collaboration diagram for world\+\_\+s\+:
+% FIG 0
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \mbox{\hyperlink{structworld__s_a6b6b0be9f1bed0b7de7564c21cb3484e}{sprite}}
+\item 
+\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \mbox{\hyperlink{structworld__s_af2b60a4e7c8f4a050080847d10fd53cd}{finish\+\_\+line}}
+\item 
+\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \mbox{\hyperlink{structworld__s_a68f4fdc59608d07975338a8f20a746b6}{missile}}
+\item 
+\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \mbox{\hyperlink{structworld__s_a8454e985aaad8dcf6c1a34ceb142fe3b}{but}}
+\item 
+\mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} \mbox{\hyperlink{structworld__s_a574737071418017919e9e0bf6ee0a05a}{walls}} \mbox{[}30\mbox{]}
+\item 
+float \mbox{\hyperlink{structworld__s_a63348b29918eaa37a31aca8d4747b5a8}{vy}}
+\item 
+float \mbox{\hyperlink{structworld__s_a723edca20fd69fc3c7c4a24de9e660a1}{debut\+\_\+temps}}
+\item 
+float \mbox{\hyperlink{structworld__s_adb5f461851236e6cd43fc0bc7ac0083b}{temps\+\_\+final}}
+\item 
+char \mbox{\hyperlink{structworld__s_af03a8087484daedc09b5160e520d090c}{message\+\_\+final}} \mbox{[}150\mbox{]}
+\item 
+int \mbox{\hyperlink{structworld__s_a693aa82d082fe3467969094559b9bc0f}{gameover}}
+\item 
+int \mbox{\hyperlink{structworld__s_a31a63214a8f4ed5026a07ace34595469}{stop}}
+\item 
+int \mbox{\hyperlink{structworld__s_af5ed483684c6cc09e89c801ad9bd8ca8}{compteur\+\_\+missile\+\_\+max}}
+\item 
+int \mbox{\hyperlink{structworld__s_ac4a646aa8b62f24627534111fe6db698}{collision\+\_\+but}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Représentation du monde du jeu. 
+
+\doxysubsection{Member Data Documentation}
+\Hypertarget{structworld__s_a8454e985aaad8dcf6c1a34ceb142fe3b}\label{structworld__s_a8454e985aaad8dcf6c1a34ceb142fe3b} 
+\index{world\_s@{world\_s}!but@{but}}
+\index{but@{but}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{but}{but}}
+{\footnotesize\ttfamily \mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} world\+\_\+s\+::but}
+
+Champ indiquant la structure des coordonnées du but \Hypertarget{structworld__s_ac4a646aa8b62f24627534111fe6db698}\label{structworld__s_ac4a646aa8b62f24627534111fe6db698} 
+\index{world\_s@{world\_s}!collision\_but@{collision\_but}}
+\index{collision\_but@{collision\_but}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{collision\_but}{collision\_but}}
+{\footnotesize\ttfamily int world\+\_\+s\+::collision\+\_\+but}
+
+Champ indiquant s\textquotesingle{}il y a collision avec le but \Hypertarget{structworld__s_af5ed483684c6cc09e89c801ad9bd8ca8}\label{structworld__s_af5ed483684c6cc09e89c801ad9bd8ca8} 
+\index{world\_s@{world\_s}!compteur\_missile\_max@{compteur\_missile\_max}}
+\index{compteur\_missile\_max@{compteur\_missile\_max}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{compteur\_missile\_max}{compteur\_missile\_max}}
+{\footnotesize\ttfamily int world\+\_\+s\+::compteur\+\_\+missile\+\_\+max}
+
+Champ indiquant le nombre de missile \Hypertarget{structworld__s_a723edca20fd69fc3c7c4a24de9e660a1}\label{structworld__s_a723edca20fd69fc3c7c4a24de9e660a1} 
+\index{world\_s@{world\_s}!debut\_temps@{debut\_temps}}
+\index{debut\_temps@{debut\_temps}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{debut\_temps}{debut\_temps}}
+{\footnotesize\ttfamily float world\+\_\+s\+::debut\+\_\+temps}
+
+Champ indiquant le temps au lancement du jeu \Hypertarget{structworld__s_af2b60a4e7c8f4a050080847d10fd53cd}\label{structworld__s_af2b60a4e7c8f4a050080847d10fd53cd} 
+\index{world\_s@{world\_s}!finish\_line@{finish\_line}}
+\index{finish\_line@{finish\_line}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{finish\_line}{finish\_line}}
+{\footnotesize\ttfamily \mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} world\+\_\+s\+::finish\+\_\+line}
+
+Champ indiquant la structure des coordonnées de la ligne d\textquotesingle{}arrivée \Hypertarget{structworld__s_a693aa82d082fe3467969094559b9bc0f}\label{structworld__s_a693aa82d082fe3467969094559b9bc0f} 
+\index{world\_s@{world\_s}!gameover@{gameover}}
+\index{gameover@{gameover}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{gameover}{gameover}}
+{\footnotesize\ttfamily int world\+\_\+s\+::gameover}
+
+Champ indiquant si l\textquotesingle{}on est à la fin du jeu \Hypertarget{structworld__s_af03a8087484daedc09b5160e520d090c}\label{structworld__s_af03a8087484daedc09b5160e520d090c} 
+\index{world\_s@{world\_s}!message\_final@{message\_final}}
+\index{message\_final@{message\_final}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{message\_final}{message\_final}}
+{\footnotesize\ttfamily char world\+\_\+s\+::message\+\_\+final\mbox{[}150\mbox{]}}
+
+Champ où sera stocké le message final \Hypertarget{structworld__s_a68f4fdc59608d07975338a8f20a746b6}\label{structworld__s_a68f4fdc59608d07975338a8f20a746b6} 
+\index{world\_s@{world\_s}!missile@{missile}}
+\index{missile@{missile}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{missile}{missile}}
+{\footnotesize\ttfamily \mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} world\+\_\+s\+::missile}
+
+Champ indiquant la structure des coordonnées du missile \Hypertarget{structworld__s_a6b6b0be9f1bed0b7de7564c21cb3484e}\label{structworld__s_a6b6b0be9f1bed0b7de7564c21cb3484e} 
+\index{world\_s@{world\_s}!sprite@{sprite}}
+\index{sprite@{sprite}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{sprite}{sprite}}
+{\footnotesize\ttfamily \mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} world\+\_\+s\+::sprite}
+
+Champ indiquant la structure des coordonnées du vaisseau \Hypertarget{structworld__s_a31a63214a8f4ed5026a07ace34595469}\label{structworld__s_a31a63214a8f4ed5026a07ace34595469} 
+\index{world\_s@{world\_s}!stop@{stop}}
+\index{stop@{stop}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{stop}{stop}}
+{\footnotesize\ttfamily int world\+\_\+s\+::stop}
+
+Champ indiquant si l\textquotesingle{}on est en pause \Hypertarget{structworld__s_adb5f461851236e6cd43fc0bc7ac0083b}\label{structworld__s_adb5f461851236e6cd43fc0bc7ac0083b} 
+\index{world\_s@{world\_s}!temps\_final@{temps\_final}}
+\index{temps\_final@{temps\_final}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{temps\_final}{temps\_final}}
+{\footnotesize\ttfamily float world\+\_\+s\+::temps\+\_\+final}
+
+Champ indiquant le temps a la fin du jeu \Hypertarget{structworld__s_a63348b29918eaa37a31aca8d4747b5a8}\label{structworld__s_a63348b29918eaa37a31aca8d4747b5a8} 
+\index{world\_s@{world\_s}!vy@{vy}}
+\index{vy@{vy}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{vy}{vy}}
+{\footnotesize\ttfamily float world\+\_\+s\+::vy}
+
+Champ indiquant la vitesse de déplacement de la ligne d\textquotesingle{}arrivée et du mur de météorites \Hypertarget{structworld__s_a574737071418017919e9e0bf6ee0a05a}\label{structworld__s_a574737071418017919e9e0bf6ee0a05a} 
+\index{world\_s@{world\_s}!walls@{walls}}
+\index{walls@{walls}!world\_s@{world\_s}}
+\doxysubsubsection{\texorpdfstring{walls}{walls}}
+{\footnotesize\ttfamily \mbox{\hyperlink{world_8h_a5371414b10358aeda7c6bcec8196342f}{sprite\+\_\+t}} world\+\_\+s\+::walls\mbox{[}30\mbox{]}}
+
+Champ indiquant l\textquotesingle{}ensemble des murs du jeu 
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{world_8h}{world.\+h}}\end{DoxyCompactItemize}

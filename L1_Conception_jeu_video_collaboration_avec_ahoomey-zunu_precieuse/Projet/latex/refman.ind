@@ -1,0 +1,340 @@
+\begin{theindex}
+
+  \item {apply\_background}
+    \subitem {graphiques.c}, \hyperpage{14}
+    \subitem {graphiques.h}, \hyperpage{18}
+  \item {apply\_sprite}
+    \subitem {graphiques.c}, \hyperpage{15}
+    \subitem {graphiques.h}, \hyperpage{19}
+  \item {apply\_text}
+    \subitem {sdl2-\/ttf-\/light.c}, \hyperpage{34}
+    \subitem {sdl2-\/ttf-\/light.h}, \hyperpage{36}
+  \item {apply\_texture}
+    \subitem {sdl2-\/light.c}, \hyperpage{24}
+    \subitem {sdl2-\/light.h}, \hyperpage{29}
+  \item {apply\_walls}
+    \subitem {graphiques.c}, \hyperpage{15}
+    \subitem {graphiques.h}, \hyperpage{19}
+
+  \indexspace
+
+  \item {background}
+    \subitem {textures\_s}, \hyperpage{7}
+  \item {but}
+    \subitem {textures\_s}, \hyperpage{7}
+    \subitem {world\_s}, \hyperpage{9}
+
+  \indexspace
+
+  \item {clean}
+    \subitem {graphiques.c}, \hyperpage{15}
+    \subitem {graphiques.h}, \hyperpage{19}
+  \item {clean\_chunk}
+    \subitem {sdl2-\/light.c}, \hyperpage{24}
+    \subitem {sdl2-\/light.h}, \hyperpage{29}
+  \item {clean\_data}
+    \subitem {world.c}, \hyperpage{38}
+    \subitem {world.h}, \hyperpage{43}
+  \item {clean\_font}
+    \subitem {sdl2-\/ttf-\/light.c}, \hyperpage{34}
+    \subitem {sdl2-\/ttf-\/light.h}, \hyperpage{36}
+  \item {clean\_music}
+    \subitem {sdl2-\/light.c}, \hyperpage{24}
+    \subitem {sdl2-\/light.h}, \hyperpage{29}
+  \item {clean\_sdl}
+    \subitem {sdl2-\/light.c}, \hyperpage{24}
+    \subitem {sdl2-\/light.h}, \hyperpage{29}
+  \item {clean\_texture}
+    \subitem {sdl2-\/light.c}, \hyperpage{26}
+    \subitem {sdl2-\/light.h}, \hyperpage{31}
+  \item {clean\_textures}
+    \subitem {graphiques.c}, \hyperpage{16}
+    \subitem {graphiques.h}, \hyperpage{20}
+  \item {clear\_renderer}
+    \subitem {sdl2-\/light.c}, \hyperpage{26}
+    \subitem {sdl2-\/light.h}, \hyperpage{31}
+  \item {collision\_but}
+    \subitem {world\_s}, \hyperpage{9}
+  \item {compteur\_missile\_max}
+    \subitem {world\_s}, \hyperpage{9}
+  \item {constantes.h}, \hyperpage{13}
+
+  \indexspace
+
+  \item {debut\_temps}
+    \subitem {world\_s}, \hyperpage{9}
+
+  \indexspace
+
+  \item {finish}
+    \subitem {textures\_s}, \hyperpage{7}
+  \item {finish\_line}
+    \subitem {world\_s}, \hyperpage{10}
+  \item {font}
+    \subitem {textures\_s}, \hyperpage{7}
+
+  \indexspace
+
+  \item {gameover}
+    \subitem {world\_s}, \hyperpage{10}
+  \item {graphiques.c}, \hyperpage{13}
+    \subitem {apply\_background}, \hyperpage{14}
+    \subitem {apply\_sprite}, \hyperpage{15}
+    \subitem {apply\_walls}, \hyperpage{15}
+    \subitem {clean}, \hyperpage{15}
+    \subitem {clean\_textures}, \hyperpage{16}
+    \subitem {if\_apply\_walls}, \hyperpage{16}
+    \subitem {init}, \hyperpage{16}
+    \subitem {init\_textures}, \hyperpage{17}
+    \subitem {refresh\_graphics}, \hyperpage{17}
+  \item {graphiques.h}, \hyperpage{17}
+    \subitem {apply\_background}, \hyperpage{18}
+    \subitem {apply\_sprite}, \hyperpage{19}
+    \subitem {apply\_walls}, \hyperpage{19}
+    \subitem {clean}, \hyperpage{19}
+    \subitem {clean\_textures}, \hyperpage{20}
+    \subitem {if\_apply\_walls}, \hyperpage{20}
+    \subitem {init}, \hyperpage{20}
+    \subitem {init\_textures}, \hyperpage{21}
+    \subitem {refresh\_graphics}, \hyperpage{21}
+
+  \indexspace
+
+  \item {h}
+    \subitem {sprite\_s}, \hyperpage{5}
+  \item {handle\_events}
+    \subitem {world.c}, \hyperpage{39}
+    \subitem {world.h}, \hyperpage{44}
+  \item {handle\_sprites\_collision}
+    \subitem {world.c}, \hyperpage{39}
+    \subitem {world.h}, \hyperpage{44}
+
+  \indexspace
+
+  \item {if\_apply\_walls}
+    \subitem {graphiques.c}, \hyperpage{16}
+    \subitem {graphiques.h}, \hyperpage{20}
+  \item {init}
+    \subitem {graphiques.c}, \hyperpage{16}
+    \subitem {graphiques.h}, \hyperpage{20}
+  \item {init\_data}
+    \subitem {world.c}, \hyperpage{39}
+    \subitem {world.h}, \hyperpage{44}
+  \item {init\_sdl}
+    \subitem {sdl2-\/light.c}, \hyperpage{26}
+    \subitem {sdl2-\/light.h}, \hyperpage{31}
+  \item {init\_sprite}
+    \subitem {world.c}, \hyperpage{39}
+    \subitem {world.h}, \hyperpage{44}
+  \item {init\_textures}
+    \subitem {graphiques.c}, \hyperpage{17}
+    \subitem {graphiques.h}, \hyperpage{21}
+  \item {init\_walls}
+    \subitem {world.c}, \hyperpage{40}
+    \subitem {world.h}, \hyperpage{45}
+  \item {is\_game\_over}
+    \subitem {world.c}, \hyperpage{40}
+    \subitem {world.h}, \hyperpage{45}
+
+  \indexspace
+
+  \item {load\_font}
+    \subitem {sdl2-\/ttf-\/light.c}, \hyperpage{35}
+    \subitem {sdl2-\/ttf-\/light.h}, \hyperpage{37}
+  \item {load\_image}
+    \subitem {sdl2-\/light.c}, \hyperpage{27}
+    \subitem {sdl2-\/light.h}, \hyperpage{32}
+
+  \indexspace
+
+  \item {main.c}, \hyperpage{22}
+  \item {make\_disappear}
+    \subitem {sprite\_s}, \hyperpage{5}
+  \item {message}
+    \subitem {sprite\_s}, \hyperpage{5}
+  \item {message\_final}
+    \subitem {world\_s}, \hyperpage{10}
+  \item {meteorite}
+    \subitem {textures\_s}, \hyperpage{7}
+  \item {missile}
+    \subitem {textures\_s}, \hyperpage{7}
+    \subitem {world\_s}, \hyperpage{10}
+  \item {music}
+    \subitem {textures\_s}, \hyperpage{7}
+
+  \indexspace
+
+  \item {pause}
+    \subitem {sdl2-\/light.c}, \hyperpage{27}
+    \subitem {sdl2-\/light.h}, \hyperpage{32}
+  \item {print\_sprint}
+    \subitem {world.c}, \hyperpage{40}
+    \subitem {world.h}, \hyperpage{45}
+
+  \indexspace
+
+  \item {refresh\_graphics}
+    \subitem {graphiques.c}, \hyperpage{17}
+    \subitem {graphiques.h}, \hyperpage{21}
+
+  \indexspace
+
+  \item {sdl2-\/light.c}, \hyperpage{23}
+    \subitem {apply\_texture}, \hyperpage{24}
+    \subitem {clean\_chunk}, \hyperpage{24}
+    \subitem {clean\_music}, \hyperpage{24}
+    \subitem {clean\_sdl}, \hyperpage{24}
+    \subitem {clean\_texture}, \hyperpage{26}
+    \subitem {clear\_renderer}, \hyperpage{26}
+    \subitem {init\_sdl}, \hyperpage{26}
+    \subitem {load\_image}, \hyperpage{27}
+    \subitem {pause}, \hyperpage{27}
+    \subitem {update\_screen}, \hyperpage{27}
+  \item {sdl2-\/light.h}, \hyperpage{28}
+    \subitem {apply\_texture}, \hyperpage{29}
+    \subitem {clean\_chunk}, \hyperpage{29}
+    \subitem {clean\_music}, \hyperpage{29}
+    \subitem {clean\_sdl}, \hyperpage{29}
+    \subitem {clean\_texture}, \hyperpage{31}
+    \subitem {clear\_renderer}, \hyperpage{31}
+    \subitem {init\_sdl}, \hyperpage{31}
+    \subitem {load\_image}, \hyperpage{32}
+    \subitem {pause}, \hyperpage{32}
+    \subitem {update\_screen}, \hyperpage{32}
+  \item {sdl2-\/ttf-\/light.c}, \hyperpage{33}
+    \subitem {apply\_text}, \hyperpage{34}
+    \subitem {clean\_font}, \hyperpage{34}
+    \subitem {load\_font}, \hyperpage{35}
+  \item {sdl2-\/ttf-\/light.h}, \hyperpage{35}
+    \subitem {apply\_text}, \hyperpage{36}
+    \subitem {clean\_font}, \hyperpage{36}
+    \subitem {load\_font}, \hyperpage{37}
+  \item {sound\_explosion}
+    \subitem {textures\_s}, \hyperpage{8}
+  \item {sound\_lose}
+    \subitem {textures\_s}, \hyperpage{8}
+  \item {sound\_mini\_explosion}
+    \subitem {textures\_s}, \hyperpage{8}
+  \item {sound\_mini\_win}
+    \subitem {textures\_s}, \hyperpage{8}
+  \item {sound\_win}
+    \subitem {textures\_s}, \hyperpage{8}
+  \item {spaceship}
+    \subitem {textures\_s}, \hyperpage{8}
+  \item {sprite}
+    \subitem {world\_s}, \hyperpage{10}
+  \item {sprite\_s}, \hyperpage{5}
+    \subitem {h}, \hyperpage{5}
+    \subitem {make\_disappear}, \hyperpage{5}
+    \subitem {message}, \hyperpage{5}
+    \subitem {w}, \hyperpage{6}
+    \subitem {x}, \hyperpage{6}
+    \subitem {y}, \hyperpage{6}
+  \item {sprites\_collide}
+    \subitem {world.c}, \hyperpage{41}
+    \subitem {world.h}, \hyperpage{46}
+  \item {stop}
+    \subitem {world\_s}, \hyperpage{10}
+
+  \indexspace
+
+  \item {temps\_final}
+    \subitem {world\_s}, \hyperpage{10}
+  \item {textures\_s}, \hyperpage{6}
+    \subitem {background}, \hyperpage{7}
+    \subitem {but}, \hyperpage{7}
+    \subitem {finish}, \hyperpage{7}
+    \subitem {font}, \hyperpage{7}
+    \subitem {meteorite}, \hyperpage{7}
+    \subitem {missile}, \hyperpage{7}
+    \subitem {music}, \hyperpage{7}
+    \subitem {sound\_explosion}, \hyperpage{8}
+    \subitem {sound\_lose}, \hyperpage{8}
+    \subitem {sound\_mini\_explosion}, \hyperpage{8}
+    \subitem {sound\_mini\_win}, \hyperpage{8}
+    \subitem {sound\_win}, \hyperpage{8}
+    \subitem {spaceship}, \hyperpage{8}
+  \item {tir\_missile}
+    \subitem {world.c}, \hyperpage{41}
+    \subitem {world.h}, \hyperpage{46}
+
+  \indexspace
+
+  \item {update\_data}
+    \subitem {world.c}, \hyperpage{41}
+    \subitem {world.h}, \hyperpage{46}
+  \item {update\_screen}
+    \subitem {sdl2-\/light.c}, \hyperpage{27}
+    \subitem {sdl2-\/light.h}, \hyperpage{32}
+  \item {update\_walls}
+    \subitem {world.c}, \hyperpage{41}
+    \subitem {world.h}, \hyperpage{46}
+
+  \indexspace
+
+  \item {verif\_marge}
+    \subitem {world.c}, \hyperpage{42}
+    \subitem {world.h}, \hyperpage{47}
+  \item {vy}
+    \subitem {world\_s}, \hyperpage{10}
+
+  \indexspace
+
+  \item {w}
+    \subitem {sprite\_s}, \hyperpage{6}
+  \item {walls}
+    \subitem {world\_s}, \hyperpage{11}
+  \item {world.c}, \hyperpage{37}
+    \subitem {clean\_data}, \hyperpage{38}
+    \subitem {handle\_events}, \hyperpage{39}
+    \subitem {handle\_sprites\_collision}, \hyperpage{39}
+    \subitem {init\_data}, \hyperpage{39}
+    \subitem {init\_sprite}, \hyperpage{39}
+    \subitem {init\_walls}, \hyperpage{40}
+    \subitem {is\_game\_over}, \hyperpage{40}
+    \subitem {print\_sprint}, \hyperpage{40}
+    \subitem {sprites\_collide}, \hyperpage{41}
+    \subitem {tir\_missile}, \hyperpage{41}
+    \subitem {update\_data}, \hyperpage{41}
+    \subitem {update\_walls}, \hyperpage{41}
+    \subitem {verif\_marge}, \hyperpage{42}
+  \item {world.h}, \hyperpage{42}
+    \subitem {clean\_data}, \hyperpage{43}
+    \subitem {handle\_events}, \hyperpage{44}
+    \subitem {handle\_sprites\_collision}, \hyperpage{44}
+    \subitem {init\_data}, \hyperpage{44}
+    \subitem {init\_sprite}, \hyperpage{44}
+    \subitem {init\_walls}, \hyperpage{45}
+    \subitem {is\_game\_over}, \hyperpage{45}
+    \subitem {print\_sprint}, \hyperpage{45}
+    \subitem {sprites\_collide}, \hyperpage{46}
+    \subitem {tir\_missile}, \hyperpage{46}
+    \subitem {update\_data}, \hyperpage{46}
+    \subitem {update\_walls}, \hyperpage{46}
+    \subitem {verif\_marge}, \hyperpage{47}
+  \item {world\_s}, \hyperpage{9}
+    \subitem {but}, \hyperpage{9}
+    \subitem {collision\_but}, \hyperpage{9}
+    \subitem {compteur\_missile\_max}, \hyperpage{9}
+    \subitem {debut\_temps}, \hyperpage{9}
+    \subitem {finish\_line}, \hyperpage{10}
+    \subitem {gameover}, \hyperpage{10}
+    \subitem {message\_final}, \hyperpage{10}
+    \subitem {missile}, \hyperpage{10}
+    \subitem {sprite}, \hyperpage{10}
+    \subitem {stop}, \hyperpage{10}
+    \subitem {temps\_final}, \hyperpage{10}
+    \subitem {vy}, \hyperpage{10}
+    \subitem {walls}, \hyperpage{11}
+
+  \indexspace
+
+  \item {x}
+    \subitem {sprite\_s}, \hyperpage{6}
+
+  \indexspace
+
+  \item {y}
+    \subitem {sprite\_s}, \hyperpage{6}
+
+\end{theindex}
