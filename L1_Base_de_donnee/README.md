@@ -1,1 +1,0 @@
-Ce projet a pour but de créer une plateforme web simple de réservation de livres. L’utilisateur peut consulter un catalogue, réserver des ouvrages, puis consulter ou annuler ses réservations via une interface dédiée en utilisant du html, css, php et javascript.
