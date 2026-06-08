@@ -1,0 +1,54 @@
+BorderPane (Racine de la scène)
+ ├── top (Zone supérieure)
+ │    └── VBox
+ │         ├── MenuBar
+ │         │    ├── Menu ("Fichier")
+ │         │    │    ├── MenuItem ("Importer")
+ │         │    │    └── MenuItem ("Exporter")
+ │         │    ├── Menu ("Edition")
+ │         │    │    ├── MenuItem ("Ajouter")
+ │         │    │    └── MenuItem ("Supprimer")
+ │         │    └── Menu ("Aide")
+ │         │         └── MenuItem ("About")
+ │         └── Label ("📚 Gestionnaire de Livres")
+ │
+ ├── left (Panneau latéral gauche)
+ │    └── VBox
+ │         ├── TextField (searchField)
+ │         ├── ComboBox (sortComboBox)
+ │         ├── ComboBox (genreComboBox)
+ │         └── ListView (booksListView)
+ │
+ └── center (Zone centrale d'affichage et d'édition)
+      └── VBox
+           ├── HBox (Haut de la zone centrale)
+           │    ├── ImageView (bookImageView)
+           │    └── VBox (Formulaire de saisie)
+           │         ├── TextField (titleField)
+           │         ├── TextField (authorField)
+           │         ├── TextField (genreField)
+           │         ├── TextField (yearField)
+           │         ├── TextArea (synopsisField)
+           │         └── HBox (Zone de notation)
+           │              ├── Button (etoile1)
+           │              ├── Button (etoile2)
+           │              ├── Button (etoile3)
+           │              ├── Button (etoile4)
+           │              ├── Button (etoile5)
+           │              └── CheckBox (vu)
+           │
+           ├── HBox (Milieu - Affichage textuel)
+           │    ├── ScrollPane
+           │    │    └── Label (detailsLabel)
+           │    └── ScrollPane
+           │         └── Label (synopsisLabel)
+           │
+           ├── HBox (Boutons d'action ligne 1)
+           │    ├── Button ("✏️ Editer")
+           │    ├── Button ("🗑️ Supprimer")
+           │    └── Button ("Je ne sais pas quoi lire")
+           │
+           └── HBox (Boutons d'action ligne 2)
+                ├── Button ("Ajouter")
+                ├── Button ("Importer")
+                └── Button ("Exporter")

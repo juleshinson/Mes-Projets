@@ -1,0 +1,1092 @@
+[
+  {
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Roman",
+    "year": 1943,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Un aviateur en panne dans le désert rencontre un petit prince venu d'une autre planète, qui lui confie ses réflexions sur l'amitié, l'amour et la solitude à travers le récit de ses voyages sur différentes planètes habitées par des adultes absurdes. Ce conte poétique et philosophique illustré par l'auteur lui-même est l'un des livres les plus traduits au monde, avec sa célèbre formule : on ne voit bien qu'avec le cœur."
+  },
+  {
+    "title": "L'Étranger",
+    "author": "Albert Camus",
+    "genre": "Roman",
+    "year": 1942,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Meursault, homme indifférent aux conventions sociales, apprend la mort de sa mère sans émotion puis tue un Arabe sur une plage d'Alger sans raison apparente. Lors de son procès, c'est moins son crime que son comportement jugé inacceptable par la société qui le condamne, illustrant la philosophie de l'absurde de Camus."
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "Roman",
+    "year": 1857,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Emma Bovary, jeune femme romanesque, épouse un médecin de campagne et se retrouve prisonnière d'une vie provinciale qu'elle méprise, cherchant dans l'adultère et les dépenses extravagantes un idéal romantique qu'elle ne trouve pas. Sa spirale d'endettement et de désillusions est une critique acerbe du romantisme naïf et de la médiocrité bourgeoise."
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Roman",
+    "year": 1862,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Jean Valjean, ancien forçat condamné pour avoir volé un pain, tente de se reconstruire une vie honorable dans une France du XIXe siècle impitoyable, pourchassé par l'inspecteur Javert tout en protégeant la petite Cosette. Cette œuvre monumentale sur la rédemption, la justice sociale et la fraternité humaine est l'une des plus grandes fresques romanesques de la littérature mondiale."
+  },
+  {
+    "title": "Germinal",
+    "author": "Émile Zola",
+    "genre": "Roman",
+    "year": 1885,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Étienne Lantier découvre les conditions de vie épuisantes des mineurs du Nord et organise une grève qui plonge toute la communauté dans une lutte violente et désespérée contre la faim et la répression patronale. Zola décrit avec un réalisme saisissant la solidarité ouvrière et la tragédie collective dans un cri puissant contre les inégalités de la société industrielle."
+  },
+  {
+    "title": "Notre-Dame de Paris",
+    "author": "Victor Hugo",
+    "genre": "Roman",
+    "year": 1831,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "La bohémienne Esmeralda, le bossu Quasimodo et l'archidiacre Frollo se trouvent liés dans un destin tragique autour de la cathédrale de Paris, dans une atmosphère de passion, de jalousie et d'injustice médiévale. Hugo signe un plaidoyer pour la préservation du patrimoine architectural gothique autant qu'un roman sur l'exclusion sociale."
+  },
+  {
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "genre": "Roman",
+    "year": 1947,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "La ville d'Oran est frappée par une épidémie de peste qui l'isole du monde, révélant la vraie nature de ses habitants face au fléau : le docteur Rieux soigne sans relâche, Tarrou organise la résistance bénévole, Paneloux cherche un sens religieux au malheur. Cette allégorie intemporelle explore la solidarité humaine et la lucidité nécessaire face à la souffrance."
+  },
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "genre": "Roman",
+    "year": 1759,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Candide, naïf élevé dans la philosophie optimiste de Pangloss, traverse un monde violent et absurde plein de guerres, d'injustices et de tremblements de terre, permettant à Voltaire de ridiculiser l'optimisme naïf de Leibniz et de critiquer les institutions religieuses et politiques. La conclusion — il faut cultiver notre jardin — prône l'action concrète sur les grandes théories vides."
+  },
+  {
+    "title": "Le Rouge et le Noir",
+    "author": "Stendhal",
+    "genre": "Roman",
+    "year": 1830,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Julien Sorel, fils de charpentier brillant et ambitieux, cherche à s'élever socialement dans la France de la Restauration grâce à la séduction et à l'hypocrisie calculée, vivant deux aventures amoureuses qui révèlent sa complexité intérieure. Stendhal offre une analyse psychologique subtile des rapports de classe et de l'hypocrisie sociale dans la France post-napoléonienne."
+  },
+  {
+    "title": "L'Alchimiste",
+    "author": "Paulo Coelho",
+    "genre": "Roman",
+    "year": 1988,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Santiago, jeune berger andalou, part à la recherche d'un trésor caché au pied des Pyramides d'Égypte et traverse l'Espagne, le Maroc et le désert dans un voyage initiatique qui lui enseigne à écouter son cœur et à lire les signes du monde. Ce roman philosophique sur la Légende Personnelle est l'un des livres les plus vendus de l'histoire de la littérature mondiale."
+  },
+  {
+    "title": "Crime et Châtiment",
+    "author": "Fiodor Dostoïevski",
+    "genre": "Roman",
+    "year": 1866,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Raskolnikov, étudiant pauvre de Saint-Pétersbourg, assassine une vieille prêteuse sur gages convaincu d'être un homme supérieur exempt des lois morales ordinaires, mais le remords le ronge progressivement pendant que l'inspecteur Porfiry le serre de plus en plus près. Dostoïevski signe l'une des analyses les plus puissantes jamais écrites sur la culpabilité humaine et la possibilité de la rédemption."
+  },
+  {
+    "title": "La Métamorphose",
+    "author": "Franz Kafka",
+    "genre": "Roman",
+    "year": 1915,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Gregor Samsa se réveille un matin transformé en énorme insecte, et sa famille tente de s'adapter avant de manifester une indifférence puis un rejet total à cet être devenu inutile à ses yeux. La nouvelle est une métaphore glaçante de l'aliénation, de l'identité brisée et du rapport entre l'individu et sa famille ou son travail."
+  },
+  {
+    "title": "Le Vieil Homme et la Mer",
+    "author": "Ernest Hemingway",
+    "genre": "Roman",
+    "year": 1952,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Santiago, vieux pêcheur cubain sans prise depuis des semaines, lutte pendant trois jours et trois nuits pour ramener à terre un gigantesque espadon dans un combat physique et mental qui devient une méditation sur la dignité et la persévérance. L'œuvre au style le plus dépouillé d'Hemingway lui a valu le Prix Nobel de littérature en 1954."
+  },
+  {
+    "title": "Gatsby le Magnifique",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Roman",
+    "year": 1925,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Jay Gatsby, homme mystérieux et immensément riche, organise des fêtes somptueuses dans sa villa de Long Island dans l'espoir de revoir Daisy, la femme qu'il a aimée et perdue, sous le regard de son voisin Nick Carraway. Fitzgerald dresse un portrait sans illusion du rêve américain et de la décadence des années folles, montrant que l'argent ne peut acheter ni le passé ni le vrai bonheur."
+  },
+  {
+    "title": "Voyage au bout de la nuit",
+    "author": "Louis-Ferdinand Céline",
+    "genre": "Roman",
+    "year": 1932,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Ferdinand Bardamu traverse la guerre de 14-18, les colonies africaines et les usines américaines dans un périple désenchanté qui le ramène à la banlieue parisienne comme médecin des pauvres, dans une langue révolutionnaire mêlant argot et lyrisme. C'est l'un des textes les plus puissants et les plus controversés du XXe siècle, qui a révolutionné la langue littéraire française."
+  },
+  {
+    "title": "Les Liaisons dangereuses",
+    "author": "Pierre Choderlos de Laclos",
+    "genre": "Roman",
+    "year": 1782,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "La marquise de Merteuil et le vicomte de Valmont, deux libertins de la haute société du XVIIIe siècle, se livrent à un jeu de manipulation cynique au détriment de victimes innocentes, révélant dans leurs lettres leurs calculs froids et leur jouissance à corrompre les cœurs purs. Ce roman épistolaire d'une noirceur remarquable expose la violence des rapports de pouvoir sous les apparences raffinées de la société aristocratique."
+  },
+  {
+    "title": "Bel-Ami",
+    "author": "Guy de Maupassant",
+    "genre": "Roman",
+    "year": 1885,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Georges Duroy, ancien sous-officier sans fortune ni scrupules, gravit rapidement les échelons de la presse parisienne grâce à son charme et son cynisme en séduisant des femmes influentes qui lui ouvrent toutes les portes. Maupassant dresse un portrait sans concession de la bourgeoisie corrompue et des milieux médiatiques et politiques de la IIIe République."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science-fiction",
+    "year": 1965,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Paul Atréides arrive sur Arrakis, planète désertique seule source de l'épice la plus précieuse de l'univers, et voit sa famille trahie et massacrée avant de rejoindre les Fremen du désert pour accomplir une destinée prophétique qui le dépasse. Considéré comme le roman de science-fiction le plus influent jamais écrit, il construit un univers politique, écologique et spirituel d'une richesse exceptionnelle."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Science-fiction",
+    "year": 1949,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Dans l'Océania d'un futur dystopique dominé par Big Brother, Winston Smith travaille au ministère de la Vérité en réécrivant l'histoire pour servir le Parti, tout en cherchant secrètement la vérité et la liberté dans un monde de surveillance permanente et de novlangue. Ce roman fondateur a inventé des concepts devenus universels et reste d'une actualité saisissante sur les mécanismes du totalitarisme."
+  },
+  {
+    "title": "Fondation",
+    "author": "Isaac Asimov",
+    "genre": "Science-fiction",
+    "year": 1951,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Hari Seldon prédit grâce à la psychohistoire l'effondrement de l'Empire galactique et crée la Fondation pour préserver le savoir humain et réduire à mille ans la période de barbarie à venir. Asimov propose une réflexion fascinante sur l'histoire, le déterminisme et le rôle des individus dans le destin des grandes civilisations."
+  },
+  {
+    "title": "Le Meilleur des mondes",
+    "author": "Aldous Huxley",
+    "genre": "Science-fiction",
+    "year": 1932,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Dans un futur lointain où les humains sont créés artificiellement et maintenus heureux grâce au soma, quelques personnages commencent à douter de cette harmonie parfaite lors de leur rencontre avec un Sauvage issu d'un monde naturel. Huxley imagine une dystopie où c'est le bonheur lui-même qui devient l'instrument de contrôle, interrogeant le prix de la liberté et de l'authenticité."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Science-fiction",
+    "year": 1953,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Guy Montag brûle les livres pour l'État dans une Amérique future où ils sont interdits, jusqu'à ce qu'une rencontre avec une jeune voisine curieuse déclenche en lui un doute qui devient rébellion totale contre la société de divertissement abrutissante. Le roman est une défense passionnée de la littérature et de la liberté intellectuelle face à la censure."
+  },
+  {
+    "title": "La Stratégie Ender",
+    "author": "Orson Scott Card",
+    "genre": "Science-fiction",
+    "year": 1985,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Ender Wiggin, enfant prodige de six ans, est recruté par l'armée de la Terre pour être formé à l'École de Guerre dans l'espace afin de devenir commandant suprême contre une invasion extraterrestre imminente, mais la révélation finale bouleverse entièrement la perception de toute l'histoire. La série pose des questions éthiques profondes sur la guerre et la manipulation des êtres brillants par les institutions."
+  },
+  {
+    "title": "Le Guide du voyageur galactique",
+    "author": "Douglas Adams",
+    "genre": "Science-fiction",
+    "year": 1979,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Arthur Dent est arraché à sa maison quelques secondes avant que la Terre soit démolie pour laisser place à une voie express hyperspatiale, et part dans un voyage à travers la galaxie plein d'absurdités cosmiques avec son ami extraterrestre Ford Prefect. Adams mêle humour british décapant, philosophie burlesque et satire sociale dans un roman culte qui a réponse à tout — notamment que la réponse à la Vie est 42."
+  },
+  {
+    "title": "Neuromancien",
+    "author": "William Gibson",
+    "genre": "Science-fiction",
+    "year": 1984,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Case, pirate informatique déchu, est recruté et réparé pour infiltrer une intelligence artificielle redoutable dans un cyberespace sombre et urbanisé. Gibson invente avec ce roman l'esthétique cyberpunk qui influencera des décennies de science-fiction, de cinéma et de culture numérique."
+  },
+  {
+    "title": "La Machine à explorer le temps",
+    "author": "H. G. Wells",
+    "genre": "Science-fiction",
+    "year": 1895,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Un scientifique voyage dans un futur très lointain et découvre une humanité divisée entre les Éloïs, doux et oisifs, et les Morlocks, troglodytes qui les exploitent dans l'ombre. Wells pose avec ce roman fondateur les bases du voyage temporel dans la science-fiction moderne, dans une méditation sur l'évolution et les inégalités de classe."
+  },
+  {
+    "title": "Solaris",
+    "author": "Stanisław Lem",
+    "genre": "Science-fiction",
+    "year": 1961,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Sur une station spatiale orbitant autour de Solaris, planète recouverte d'un océan vivant potentiellement intelligent, les scientifiques sont perturbés par des apparitions matérialisées depuis leurs souvenirs les plus intimes. Lem pose la question fondamentale : peut-on communiquer avec une intelligence radicalement différente de la nôtre, et que révèle cet échec sur nous-mêmes ?"
+  },
+  {
+    "title": "Ubik",
+    "author": "Philip K. Dick",
+    "genre": "Science-fiction",
+    "year": 1969,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Joe Chip et son équipe survivent à un attentat mais se retrouvent dans un monde où la réalité se dégrade inexplicablement, les objets vieillissant à rebours et les morts semblant encore communiquer. Dick brouille avec virtuosité les frontières entre rêve, mort et simulation dans une exploration vertigineuse de la nature de la réalité."
+  },
+  {
+    "title": "La Guerre des mondes",
+    "author": "H. G. Wells",
+    "genre": "Science-fiction",
+    "year": 1898,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Des Martiens équipés de tripodes géants envahissent l'Angleterre et balaient toute résistance militaire humaine, plongeant la population dans une panique totale que Wells décrit avec un réalisme saisissant. Le roman peut aussi se lire comme une critique du colonialisme : les humains subissent ce qu'ils font subir à d'autres peuples."
+  },
+  {
+    "title": "Seul sur Mars",
+    "author": "Andy Weir",
+    "genre": "Science-fiction",
+    "year": 2011,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Mark Watney, astronaute accidentellement abandonné sur Mars lors d'une tempête, doit survivre seul sur la planète rouge avec des ressources limitées et son ingéniosité en attendant qu'une mission de sauvetage soit organisée. Weir combine rigueur scientifique impressionnante et humour mordant pour signer un roman de survie captivant et optimiste sur la débrouillardise humaine."
+  },
+  {
+    "title": "Harry Potter à l'école des sorciers",
+    "author": "J. K. Rowling",
+    "genre": "Fantastique",
+    "year": 1997,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Harry Potter, orphelin maltraité, découvre le jour de ses onze ans qu'il est sorcier et entre à Poudlard où il se lie d'amitié avec Ron et Hermione tout en affrontant les premières traces du retour du sombre Voldemort. Rowling a créé un univers d'une cohérence et d'une richesse exceptionnelles qui a passionné des générations de lecteurs."
+  },
+  {
+    "title": "Le Hobbit",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantastique",
+    "year": 1937,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Bilbo Bessac, hobbit paisible, est entraîné par Gandalf et treize nains dans une expédition périlleuse vers la Montagne Solitaire pour récupérer un trésor gardé par le dragon Smaug, découvrant en chemin des ressources insoupçonnées de courage. Ce roman d'aventure lumineux est la porte d'entrée idéale dans l'immense univers de Tolkien."
+  },
+  {
+    "title": "Le Seigneur des anneaux",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantastique",
+    "year": 1954,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Frodon Bessac hérite de l'Anneau Unique forgé par Sauron et entreprend un voyage périlleux jusqu'au Mordor pour le détruire, accompagné d'une Communauté de neuf compagnons dans une épopée d'une ampleur extraordinaire. L'œuvre a durablement redéfini le genre de la fantasy moderne."
+  },
+  {
+    "title": "Le Trône de fer",
+    "author": "George R. R. Martin",
+    "genre": "Fantastique",
+    "year": 1996,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Dans les Sept Couronnes de Westeros, plusieurs grandes maisons nobles se disputent le Trône de Fer dans un jeu politique brutal où Martin n'hésite pas à tuer ses personnages les plus attachants, pendant qu'une menace surnaturelle se réveille au-delà du Mur. La série a révolutionné la fantasy en y apportant une complexité morale qui dépasse les conventions du genre."
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genre": "Fantastique",
+    "year": 2001,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Shadow Moon est embauché par le mystérieux Mr. Wednesday qui se révèle être Odin, et entraîné dans un road trip à travers l'Amérique pour rallier les anciens dieux oubliés face aux nouveaux dieux de la technologie et des médias. Gaiman mêle mythologies du monde entier et americana dans une méditation puissante sur la croyance et l'identité américaine."
+  },
+  {
+    "title": "À la croisée des mondes",
+    "author": "Philip Pullman",
+    "genre": "Fantastique",
+    "year": 1995,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Lyra Belacqua, élevée à Oxford dans un monde où chaque humain possède un daimon animal, part vers le Grand Nord à la recherche d'enfants disparus et découvre des mondes parallèles et des secrets liés à la mystérieuse Poussière. Pullman construit un univers fascinant interrogeant la religion, le pouvoir institutionnel et la nature de l'âme."
+  },
+  {
+    "title": "La Quête d'Ewilan",
+    "author": "Pierre Bottero",
+    "genre": "Fantastique",
+    "year": 2003,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Camille découvre qu'elle possède le Don du dessin lui permettant de basculer dans un monde parallèle appelé Gwendalavir, où elle est en réalité Ewilan dont les parents ont mystérieusement disparu. Bottero a créé une fantasy française inventive et chaleureuse qui a marqué toute une génération de jeunes lecteurs."
+  },
+  {
+    "title": "L'Assassin royal",
+    "author": "Robin Hobb",
+    "genre": "Fantastique",
+    "year": 1995,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Fitz, bâtard royal possédant deux magies rares, est formé en secret comme assassin au service de la couronne des Six-Duchés, grandit dans l'ombre du pouvoir entre devoir, loyautés déchirantes et quête d'identité douloureuse. Hobb construit un roman de fantasy psychologique d'une profondeur émotionnelle rare, loin des conventions du genre."
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "genre": "Fantastique",
+    "year": 2002,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Eragon, jeune fermier de quinze ans, trouve un œuf de dragon qui éclot et fait de lui l'un des derniers Dragonniers, entraîné dans une lutte contre l'Empire tyrannique du roi Galbatorix après la mort de son oncle. Remarquable pour avoir été écrit par un auteur de quinze ans, le roman lance une saga épique dans la tradition de Tolkien."
+  },
+  {
+    "title": "Le Chien des Baskerville",
+    "author": "Arthur Conan Doyle",
+    "genre": "Fantastique",
+    "year": 1902,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Sherlock Holmes enquête sur une malédiction familiale et un chien fantomatique dans les landes anglaises du Dartmoor, confrontant la raison cartésienne aux apparences surnaturelles dans une atmosphère brumeuse et angoissante. C'est l'aventure la plus célèbre du détective le plus fameux de la littérature."
+  },
+  {
+    "title": "Dix petits nègres",
+    "author": "Agatha Christie",
+    "genre": "Policier",
+    "year": 1939,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Dix personnes sans lien apparent, invitées sur une île isolée et accusées chacune d'un crime impuni, meurent une à une selon une comptine enfantine dans un huis clos angoissant où chaque survivant devient suspect. Christie signe son roman le plus audacieux et le plus ingénieux, avec un retournement final qui a marqué des générations de lecteurs."
+  },
+  {
+    "title": "Le Crime de l'Orient-Express",
+    "author": "Agatha Christie",
+    "genre": "Policier",
+    "year": 1934,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Hercule Poirot enquête sur un meurtre commis à bord de l'Orient-Express bloqué par la neige, où tous les passagers sont suspects et ont un alibi, reconstituant peu à peu une vérité qui bouleversera ses convictions habituelles sur la justice. L'œuvre est l'une des plus grandes réussites du genre policier classique."
+  },
+  {
+    "title": "Millénium",
+    "author": "Stieg Larsson",
+    "genre": "Policier",
+    "year": 2005,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Le journaliste Mikael Blomkvist et la hackeuse Lisbeth Salander enquêtent sur une disparition de quarante ans et découvrent une histoire familiale sordide mêlant violences, secrets financiers et corruption institutionnelle. Larsson a créé des personnages mémorables et un thriller nordique d'une intensité rare qui a défini tout un courant littéraire."
+  },
+  {
+    "title": "Le Silence des agneaux",
+    "author": "Thomas Harris",
+    "genre": "Policier",
+    "year": 1988,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "La stagiaire du FBI Clarice Starling interroge le cannibale Hannibal Lecter pour traquer un autre tueur en série, dans un duel psychologique d'une intensité rare où Lecter manipule autant qu'il aide. Harris construit un thriller d'une noirceur absolue qui a donné naissance à l'un des personnages les plus mémorables jamais créés."
+  },
+  {
+    "title": "Les Rivières pourpres",
+    "author": "Jean-Christophe Grangé",
+    "genre": "Policier",
+    "year": 1998,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Le commissaire Niémans enquête sur un meurtre ritualisé dans une université de montagne des Alpes, pendant qu'un jeune policier enquête sur une profanation de tombe dans une ville proche, et les deux affaires convergent vers une vérité monstrueuse. Grangé maîtrise la montée en tension et l'atmosphère froide des Alpes pour servir un thriller noir d'une violence maîtrisée."
+  },
+  {
+    "title": "Pars vite et reviens tard",
+    "author": "Fred Vargas",
+    "genre": "Policier",
+    "year": 2001,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Le commissaire Adamsberg, policier intuitif et peu orthodoxe, est intrigué par de mystérieux chiffres tracés sur des portes parisiennes liés à la vieille comptine de la Peste noire, et bientôt des morts se multiplient. Vargas crée une atmosphère unique entre polar contemporain et résonances historiques, portée par des personnages truculents et un style singulier."
+  },
+  {
+    "title": "Alex",
+    "author": "Pierre Lemaitre",
+    "genre": "Policier",
+    "year": 2011,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Une jeune femme est enlevée en plein Paris et séquestrée dans des conditions terrifiantes, pendant que le commandant Camille Verhoeven lance une traque désespérée contre la montre. Lemaitre joue avec maestria sur les ruptures de point de vue dans ce thriller récompensé par le CWA Gold Dagger."
+  },
+  {
+    "title": "La Vérité sur l'affaire Harry Quebert",
+    "author": "Joël Dicker",
+    "genre": "Policier",
+    "year": 2012,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Marcus Goldman enquête sur son mentor Harry Quebert accusé du meurtre d'une adolescente retrouvée dans son jardin après trente ans, remontant aux secrets enfouis de l'été 1975 dans une petite ville du New Hampshire. Dicker multiplie avec habileté les retournements de situation dans ce roman à tiroirs aussi addictif que bien construit."
+  },
+  {
+    "title": "L'Île au trésor",
+    "author": "Robert Louis Stevenson",
+    "genre": "Aventure",
+    "year": 1883,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Jim Hawkins trouve une carte indiquant l'emplacement d'un trésor pirate et embarque pour une expédition dont une grande partie de l'équipage est composée d'anciens pirates conduits par le redoutable Long John Silver. Stevenson a écrit le récit d'aventure maritime par excellence, archétype du genre qui a inspiré d'innombrables œuvres depuis."
+  },
+  {
+    "title": "Les Trois Mousquetaires",
+    "author": "Alexandre Dumas",
+    "genre": "Aventure",
+    "year": 1844,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "D'Artagnan rejoint Athos, Porthos et Aramis pour des aventures mêlant complots, duels et panache au service du roi de France contre le cardinal Richelieu et la dangereuse Milady. Dumas signe le chef-d'œuvre absolu du roman de cape et d'épée, dont l'enthousiasme et le rythme n'ont pas pris une ride."
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "author": "Jules Verne",
+    "genre": "Aventure",
+    "year": 1870,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Le professeur Aronnax est prisonnier à bord du Nautilus du mystérieux capitaine Nemo et explore pendant des mois les fonds marins les plus secrets de la planète dans un voyage d'émerveillement et de danger. Verne offre une vision poétique et scientifique de l'océan qui reste époustouflante plus d'un siècle après."
+  },
+  {
+    "title": "Robinson Crusoé",
+    "author": "Daniel Defoe",
+    "genre": "Aventure",
+    "year": 1719,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Naufragé sur une île déserte, Robinson Crusoé organise pendant vingt-huit ans sa survie avec ingéniosité, cultivant la terre et élevant des animaux dans une solitude totale avant la rencontre avec Vendredi. Premier roman anglais selon certains critiques, l'œuvre est le texte fondateur du genre robinsonnade."
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Aventure",
+    "year": 1851,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Le capitaine Achab poursuit obsessionnellement la baleine blanche Moby Dick qui lui a arraché la jambe, entraînant l'équipage du Péquod dans une chasse à travers tous les océans qui devient une quête métaphysique sur la folie et le destin. Considéré comme l'une des œuvres les plus importantes de la littérature américaine."
+  },
+  {
+    "title": "Le Tour du monde en quatre-vingts jours",
+    "author": "Jules Verne",
+    "genre": "Aventure",
+    "year": 1872,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Phileas Fogg parie vingt mille livres sterling qu'il peut faire le tour du monde en quatre-vingts jours et part immédiatement avec son fidèle Passepartout, poursuivi par un détective convaincu qu'il est un banquier en fuite. Verne mêle dépaysement exotique et suspense haletant dans cet éloge de la modernité et des transports."
+  },
+  {
+    "title": "L'Appel de la forêt",
+    "author": "Jack London",
+    "genre": "Aventure",
+    "year": 1903,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Buck, grand chien domestique de Californie, est kidnappé et vendu comme chien de traîneau pendant la ruée vers l'or du Klondike, redécouvrant progressivement ses instincts sauvages enfouis sous des générations de vie domestique. Le roman culmine dans une libération sauvage et poétique, Buck répondant à l'appel ancestral de la forêt."
+  },
+  {
+    "title": "Croc-Blanc",
+    "author": "Jack London",
+    "genre": "Aventure",
+    "year": 1906,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Croc-Blanc, chien-loup né dans la nature sauvage du Grand Nord, passe entre les mains de maîtres successifs brutaux avant de rencontrer un maître bienveillant qui révèle qu'un être façonné par la violence peut être transformé par l'amour. London offre un miroir inversé de L'Appel de la forêt."
+  },
+  {
+    "title": "Journal",
+    "author": "Anne Frank",
+    "genre": "Biographie",
+    "year": 1947,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Anne Frank raconte dans son journal intime les deux années et demie de clandestinité de sa famille dans une annexe secrète d'Amsterdam pour échapper aux nazis, avec une vivacité et une intelligence remarquables pour une adolescente. Arrêtée en 1944 et morte à Bergen-Belsen à quinze ans, elle laisse l'un des témoignages humains les plus puissants sur l'Holocauste."
+  },
+  {
+    "title": "Nelson Mandela : Un long chemin vers la liberté",
+    "author": "Nelson Mandela",
+    "genre": "Biographie",
+    "year": 1994,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Mandela retrace son enfance en Afrique du Sud, son engagement contre l'apartheid, les vingt-sept années d'emprisonnement à Robben Island et son accession à la présidence, avec une sobriété et une grandeur d'âme admirables. Le texte porte une mémoire politique exceptionnelle et un témoignage universel sur la résistance non violente."
+  },
+  {
+    "title": "Éducation",
+    "author": "Tara Westover",
+    "genre": "Biographie",
+    "year": 2018,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Tara Westover a grandi dans les montagnes de l'Idaho dans une famille survivaliste extrémiste sans jamais aller à l'école, et par sa seule volonté a obtenu un doctorat à Cambridge en brisant ses conditionnements les plus profonds. Ce mémoire exceptionnel est une réflexion sur la construction de soi, la vérité et le prix de l'émancipation."
+  },
+  {
+    "title": "L'Autobiographie de Malcolm X",
+    "author": "Malcolm X",
+    "genre": "Biographie",
+    "year": 1965,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Malcolm X retrace son enfance marquée par la violence raciste, ses années de criminalité, sa conversion à l'islam et sa transformation en leader charismatique des droits civiques avant d'être assassiné en 1965. L'un des textes politiques les plus importants du XXe siècle sur le racisme américain et la quête d'identité."
+  },
+  {
+    "title": "Moi, Malala",
+    "author": "Malala Yousafzai",
+    "genre": "Biographie",
+    "year": 2013,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Malala raconte son combat pour l'éducation des filles dans le Pakistan des talibans et l'attentat dont elle a survécu à quinze ans, avant de devenir la plus jeune lauréate du Prix Nobel de la paix à dix-sept ans. Un récit d'une force et d'un courage remarquables."
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "genre": "Biographie",
+    "year": 2011,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Isaacson dresse le portrait complet et sans complaisance de Steve Jobs, génie créatif doublé d'un homme difficile et parfois cruel, depuis ses débuts dans un garage jusqu'à ses dernières années marquées par la maladie. Une plongée fascinante dans la naissance des produits qui ont transformé notre quotidien numérique."
+  },
+  {
+    "title": "Open",
+    "author": "Andre Agassi",
+    "genre": "Biographie",
+    "year": 2009,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Agassi révèle qu'il a détesté le tennis pendant la majeure partie de sa carrière, raconte ses chutes, sa consommation de drogues dissimulée et sa renaissance grâce à son entraîneur et à Steffi Graf. L'une des autobiographies sportives les plus honnêtes et les plus littéraires jamais écrites."
+  },
+  {
+    "title": "Les Piliers de la Terre",
+    "author": "Ken Follett",
+    "genre": "Historique",
+    "year": 1989,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Dans l'Angleterre médiévale du XIIe siècle, la construction d'une cathédrale gothique à Kingsbridge lie sur plusieurs décennies les destins de nombreux personnages dans un roman feuilleton mêlant vie médiévale, intrigues politiques et ecclésiastiques. L'architecture gothique elle-même devient un personnage central, symbole d'une foi et d'une ambition humaine qui défient le temps."
+  },
+  {
+    "title": "Le Nom de la rose",
+    "author": "Umberto Eco",
+    "genre": "Historique",
+    "year": 1980,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Guillaume de Baskerville, moine franciscain érudit, enquête sur des morts mystérieuses dans une abbaye médiévale liées à une bibliothèque secrète renfermant des livres interdits, dans un roman d'une érudition vertigineuse sur la théologie et le pouvoir des livres. L'œuvre est à la fois un thriller médiéval captivant et une réflexion sur le savoir et la censure."
+  },
+  {
+    "title": "Les Rois maudits",
+    "author": "Maurice Druon",
+    "genre": "Historique",
+    "year": 1955,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Cette saga en sept volumes retrace la fin des Capétiens directs au XIVe siècle sous la malédiction du grand maître des Templiers, décrivant avec précision les intrigues de cour, les trahisons et la mécanique brutale du pouvoir royal médiéval. George R.R. Martin lui-même a cité cette œuvre comme l'une de ses inspirations pour Le Trône de fer."
+  },
+  {
+    "title": "Mémoires d'Hadrien",
+    "author": "Marguerite Yourcenar",
+    "genre": "Historique",
+    "year": 1951,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "L'empereur Hadrien écrit une longue lettre testamentaire à Marc Aurèle, méditant sur sa vie, ses conquêtes, ses amours et sa vision du pouvoir dans une voix d'une élégance et d'une profondeur remarquables que Yourcenar lui prête après vingt ans de recherches. C'est l'une des plus belles réussites du roman historique du XXe siècle."
+  },
+  {
+    "title": "L'Ombre du vent",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "Historique",
+    "year": 2001,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Dans la Barcelone franquiste de l'après-guerre, Daniel Sempere découvre au Cimetière des Livres Oubliés un roman de Julián Carax dont quelqu'un brûle tous les exemplaires, et sa quête révèle des secrets, des trahisons et des amours tragiques sur plusieurs générations. Zafón crée une atmosphère gothique et mélancolique dans une Barcelone vivante comme un personnage."
+  },
+  {
+    "title": "La Reine Margot",
+    "author": "Alexandre Dumas",
+    "genre": "Historique",
+    "year": 1845,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Marguerite de Valois est mariée de force à Henri de Navarre et se retrouve prise dans les terribles jeux de pouvoir des Valois autour de la nuit de la Saint-Barthélemy qui massacre des milliers de protestants. Dumas déploie avec talent une fresque historique romanesque sur l'une des périodes les plus sanglantes de l'histoire de France."
+  },
+  {
+    "title": "Le Médecin d'Ispahan",
+    "author": "Noah Gordon",
+    "genre": "Historique",
+    "year": 1986,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Rob Cole, jeune Anglais du XIe siècle passionné de médecine, traverse l'Europe et le Moyen-Orient déguisé en juif pour étudier auprès du grand Avicenne à Ispahan, dans une épopée historique d'une richesse documentaire impressionnante. Le roman est un hymne à la curiosité intellectuelle par-delà les frontières culturelles et religieuses."
+  },
+  {
+    "title": "Les Fleurs du mal",
+    "author": "Charles Baudelaire",
+    "genre": "Poésie",
+    "year": 1857,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Baudelaire explore avec une beauté formelle classique le spleen, le désir charnel, la mort et la quête de l'idéal, faisant de Paris pour la première fois un sujet poétique majeur. Ce recueil est le point de bascule entre la poésie romantique et la poésie moderne, influençant toute la poésie occidentale jusqu'à aujourd'hui."
+  },
+  {
+    "title": "Alcools",
+    "author": "Guillaume Apollinaire",
+    "genre": "Poésie",
+    "year": 1913,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Apollinaire abolit toute ponctuation et mêle traditions poétiques et sensibilité moderne dans un recueil chantant à la fois le Rhin légendaire, les néons de Paris et les amours perdues. Zone, son poème d'ouverture, est souvent considéré comme le premier grand poème de la modernité française."
+  },
+  {
+    "title": "Les Contemplations",
+    "author": "Victor Hugo",
+    "genre": "Poésie",
+    "year": 1856,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Hugo rassemble vingt années de poèmes séparés par le traumatisme central de sa vie, la mort de sa fille Léopoldine en 1843, divisant l'œuvre entre un Autrefois joyeux et un Aujourd'hui plongé dans le deuil et le questionnement métaphysique. Le poème À Villequier est l'une des plus grandes élégies de la langue française."
+  },
+  {
+    "title": "Cahier d'un retour au pays natal",
+    "author": "Aimé Césaire",
+    "genre": "Poésie",
+    "year": 1939,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Césaire décrit son retour imaginaire en Martinique dévastée par la colonisation dans une langue explosive mêlant français soutenu, créole et images surréalistes, forgeant le concept de négritude et revendiquant la dignité de l'identité noire. Ce texte fondateur a influencé les mouvements de décolonisation à travers le monde."
+  },
+  {
+    "title": "Illuminations",
+    "author": "Arthur Rimbaud",
+    "genre": "Poésie",
+    "year": 1886,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Ces textes en prose poétique écrits par Rimbaud entre seize et dix-neuf ans inventent des visions fulgurantes d'une modernité stupéfiante, cherchant le dérèglement raisonné de tous les sens pour accéder à une vision totale et neuve. Leur influence s'étend des surréalistes aux beatniks américains."
+  },
+  {
+    "title": "Cyrano de Bergerac",
+    "author": "Edmond Rostand",
+    "genre": "Poésie",
+    "year": 1897,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Cyrano de Bergerac, poète et duelliste incomparable complexé par son nez, prête son génie poétique au beau Christian pour courtiser Roxane à sa place en rédigeant les lettres d'amour les plus sublimes sans jamais révéler leur véritable auteur. Rostand construit une pièce d'un panache et d'une virtuosité formelle extraordinaires, symbole de la générosité désintéressée."
+  },
+  {
+    "title": "Antigone",
+    "author": "Jean Anouilh",
+    "genre": "Théâtre",
+    "year": 1944,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Antigone décide d'enterrer son frère Polynice malgré l'édit du roi Créon et choisit la mort pour rester fidèle à sa conscience plutôt que de céder, dans un affrontement dramatique sur la loi, la conscience et les limites de l'obéissance. Écrite en 1942, la pièce résonnait comme un appel implicite à la résistance dans la France occupée."
+  },
+  {
+    "title": "Tartuffe",
+    "author": "Molière",
+    "genre": "Théâtre",
+    "year": 1664,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Tartuffe, faux dévot mielleux, use de sa façade religieuse pour s'introduire dans la famille d'Orgon, la déposséder de ses biens et tenter de séduire sa femme, pendant que toute la famille impuissante voit clair dans son jeu. Molière peint avec précision le mécanisme de la manipulation et de l'emprise à travers la dévotion."
+  },
+  {
+    "title": "Phèdre",
+    "author": "Jean Racine",
+    "genre": "Théâtre",
+    "year": 1677,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Phèdre est consumée par un amour interdit et honteux pour son beau-fils Hippolyte, et le retour de Thésée provoque une catastrophe en chaîne dans laquelle tous périssent. Racine explore avec une rigueur formelle absolue la psychologie d'une femme déchirée entre désir, honte et mort inévitable."
+  },
+  {
+    "title": "Huis clos",
+    "author": "Jean-Paul Sartre",
+    "genre": "Théâtre",
+    "year": 1944,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Trois personnages morts sont enfermés ensemble pour l'éternité, chacun devenant le tortionnaire des deux autres dans un triangle infernal de regard et de manipulation illustrant la formule L'enfer c'est les autres. Sartre offre une illustration magistrale de sa philosophie existentialiste sur la liberté et la mauvaise foi."
+  },
+  {
+    "title": "En attendant Godot",
+    "author": "Samuel Beckett",
+    "genre": "Théâtre",
+    "year": 1952,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Vladimir et Estragon attendent chaque jour la venue d'un certain Godot qui ne vient jamais, parlant pour passer le temps dans un vide total de sens, d'action et de progression narrative. Beckett a créé l'archétype du théâtre de l'absurde dans une méditation profonde sur l'attente et l'impossibilité de trouver un sens à l'existence."
+  },
+  {
+    "title": "Rhinocéros",
+    "author": "Eugène Ionesco",
+    "genre": "Théâtre",
+    "year": 1959,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Les habitants d'une ville se transforment un à un en rhinocéros dans une contagion idéologique, et seul Bérenger résiste à cette métamorphose collective, maintenant seul son humanité face au conformisme triomphant. Ionesco signe l'une des allégories les plus puissantes jamais produites sur la séduction des mouvements de masse."
+  },
+  {
+    "title": "One Piece, tome 1",
+    "author": "Eiichiro Oda",
+    "genre": "Manga",
+    "year": 1997,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Monkey D. Luffy, garçon au corps de caoutchouc, rêve de devenir le roi des pirates en trouvant le légendaire trésor One Piece et commence à se constituer un équipage dans un univers joyeux défini par la liberté et l'amitié. One Piece est devenu le manga le plus vendu de l'histoire."
+  },
+  {
+    "title": "Death Note, tome 1",
+    "author": "Tsugumi Ohba",
+    "genre": "Manga",
+    "year": 2003,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Light Yagami trouve le Death Note, carnet surnaturel qui tue toute personne dont on y inscrit le nom, et commence à éliminer les criminels sous le nom de Kira, déclenchant un duel intellectuel fascinant avec le détective mystérieux L. La série pose des questions éthiques profondes sur la justice et le pouvoir absolu."
+  },
+  {
+    "title": "Fullmetal Alchemist, tome 1",
+    "author": "Hiromu Arakawa",
+    "genre": "Manga",
+    "year": 2001,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Les frères Elric, après avoir tenté la transmutation interdite de ramener leur mère à la vie, cherchent la Pierre Philosophale pour récupérer leurs corps perdus, dans une série explorant la culpabilité, le deuil et la corruption du pouvoir avec une profondeur remarquable. Unanimement saluée comme l'une des grandes réussites du manga."
+  },
+  {
+    "title": "L'Attaque des Titans, tome 1",
+    "author": "Hajime Isayama",
+    "genre": "Manga",
+    "year": 2009,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "L'humanité survit derrière des murs gigantesques pour échapper aux Titans jusqu'au jour où un Titan colossal brise le mur extérieur, dévore la mère d'Eren Yeager qui s'engage alors dans l'armée pour venger sa famille et libérer l'humanité. La série évolue vers une complexité politique et morale surprenante pour le genre."
+  },
+  {
+    "title": "Monster, tome 1",
+    "author": "Naoki Urasawa",
+    "genre": "Manga",
+    "year": 1994,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Le docteur Tenma sauve la vie d'un enfant nommé Johan contre l'avis de sa hiérarchie, avant de découvrir des années plus tard que Johan est devenu un tueur en série d'une intelligence redoutable, et part à travers l'Europe pour l'arrêter. Urasawa signe un thriller psychologique d'une complexité et d'une tension rares dans le manga."
+  },
+  {
+    "title": "Berserk, tome 1",
+    "author": "Kentaro Miura",
+    "genre": "Manga",
+    "year": 1989,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Guts, mercenaire solitaire d'une force surhumaine, erre dans un monde médiéval sombre hanté par des démons avec un passé marqué par une trahison d'une cruauté exceptionnelle. Miura construit un manga dark fantasy d'une densité narrative et d'un dessin sans équivalent, unanimement considéré comme un chef-d'œuvre absolu du genre."
+  },
+  {
+    "title": "Akira, tome 1",
+    "author": "Katsuhiro Otomo",
+    "genre": "Manga",
+    "year": 1982,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Dans Neo-Tokyo, des gangs de jeunes motards se retrouvent liés à des expériences militaires secrètes sur des enfants aux pouvoirs télékinétiques, dans un univers visuel d'une puissance qui a révolutionné le manga et l'animation japonaise. Akira est le texte fondateur du cyberpunk japonais."
+  },
+  {
+    "title": "Vinland Saga, tome 1",
+    "author": "Makoto Yukimura",
+    "genre": "Manga",
+    "year": 2005,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Thorfinn, fils d'un légendaire guerrier viking assassiné, voyage avec la bande du tueur de son père en attendant de pouvoir le défier en duel, dans un monde viking du XIe siècle reconstruit avec une rigueur historique impressionnante. La série évolue vers une réflexion profonde sur la violence, la guerre et la possibilité de la paix."
+  },
+  {
+    "title": "Naruto, tome 1",
+    "author": "Masashi Kishimoto",
+    "genre": "Manga",
+    "year": 1999,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Naruto Uzumaki, jeune ninja rejeté car il porte en lui le Renard à Neuf Queues scellé à sa naissance, rêve de devenir Hokage pour que tout le monde le reconnaisse enfin. La série explore la reconnaissance, l'appartenance et la persévérance face au rejet sur des centaines de tomes."
+  },
+  {
+    "title": "Dragon Ball, tome 1",
+    "author": "Akira Toriyama",
+    "genre": "Manga",
+    "year": 1984,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Son Goku, enfant à la force physique stupéfiante, rencontre Bulma en quête des sept Dragon Balls qui invoquent un dragon exauçant un vœu, lançant une équipée loufoque pleine de combats spectaculaires et d'humour potache. Dragon Ball reste l'œuvre la plus influente de l'histoire du manga."
+  },
+  {
+    "title": "Shining",
+    "author": "Stephen King",
+    "genre": "Thriller",
+    "year": 1977,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Jack Torrance, écrivain alcoolique, devient gardien de l'hôtel Overlook dans les montagnes du Colorado pendant l'hiver avec sa femme et son fils Danny qui possède un don psychique, et les forces maléfiques de l'hôtel réveillent sa folie. King signe l'un de ses textes les plus personnels, une exploration de l'alcoolisme et de la violence domestique enveloppée dans l'horreur."
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "year": 2012,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Amy disparaît le jour de son anniversaire de mariage et son mari Nick devient rapidement suspect, mais les journaux d'Amy révèlent une réalité conjugale bien plus complexe et toxique que les apparences. Flynn construit un roman à double voix d'une perversité narrative redoutable sur le mariage, les médias et la manipulation."
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "genre": "Thriller",
+    "year": 1987,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "L'écrivain Paul Sheldon, recueilli après un accident par Annie Wilkes qui se présente comme sa plus grande fan, réalise rapidement que son sauvetage est en réalité une captivité terrifiante dans une maison isolée dans les montagnes. King explore avec précision la relation malsaine entre un créateur et son public dans un huis clos d'une tension insoutenable."
+  },
+  {
+    "title": "Millénium",
+    "author": "Stieg Larsson",
+    "genre": "Thriller",
+    "year": 2005,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Mikael Blomkvist et Lisbeth Salander enquêtent sur une disparition ancienne et découvrent une histoire sordide mêlant violences, secrets financiers et corruption institutionnelle dans un thriller nordique ancré dans une critique sociale suédoise acérée. L'œuvre reste l'une des séries policières les plus lues de l'histoire récente."
+  },
+  {
+    "title": "La Fille du train",
+    "author": "Paula Hawkins",
+    "genre": "Thriller",
+    "year": 2015,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Rachel, femme alcoolique qui observe chaque matin depuis son train un couple qu'elle fantasme parfait, se retrouve impliquée dans l'enquête sur la disparition de cette femme dont ses souvenirs fragmentés sont cruciaux. Hawkins construit un thriller à plusieurs voix jouant sur l'ambiguïté de la mémoire et les apparences trompeuses."
+  },
+  {
+    "title": "Ne le dis à personne",
+    "author": "Harlan Coben",
+    "genre": "Thriller",
+    "year": 2001,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Huit ans après le meurtre de sa femme, le docteur David Beck reçoit un email contenant ce qui semble être une vidéo d'elle vivante, replongeant sa vie dans le chaos et la paranoïa pendant que des meurtres se multiplient autour de lui. Coben signe un thriller haletant aux multiples rebondissements imprévus."
+  },
+  {
+    "title": "Avant d'aller dormir",
+    "author": "S. J. Watson",
+    "genre": "Thriller",
+    "year": 2011,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Christine souffre d'une amnésie qui lui fait perdre tous ses souvenirs chaque nuit, et les entrées de son journal secret commencent à révéler des incohérences troublantes dans les récits que son mari lui fait de leur vie commune. Watson construit un thriller psychologique haletant sur l'identité, la confiance et la mémoire."
+  },
+  {
+    "title": "Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2003,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Robert Langdon enquête sur un meurtre commis au Louvre et découvre une piste conduisant vers des secrets anciens mêlant art, religion et sociétés secrètes, l'emmenant de Paris à Londres et en Écosse. Brown mêle avec efficacité histoire, symbologie et thriller ésotérique dans un page-turner irrésistible."
+  },
+  {
+    "title": "La Vérité sur l'affaire Harry Quebert",
+    "author": "Joël Dicker",
+    "genre": "Thriller",
+    "year": 2012,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Marcus Goldman enquête sur son mentor accusé de meurtre en remontant aux secrets enfouis de l'été 1975 dans une petite ville du New Hampshire, multipliant les retournements de situation et les fausses pistes. L'œuvre est aussi une réflexion sur les illusions de la gloire littéraire et les obsessions qui poussent les êtres à des actes extrêmes."
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "Essai",
+    "year": 2011,
+    "rating": 5,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Harari retrace l'histoire complète de l'humanité depuis l'apparition d'Homo sapiens jusqu'à nos sociétés hyperconnectées, questionnant nos certitudes sur le progrès, la religion, l'argent et le bonheur. D'une accessibilité remarquable pour un sujet aussi vaste, c'est l'un des livres de non-fiction les plus vendus de la décennie."
+  },
+  {
+    "title": "Le Deuxième Sexe",
+    "author": "Simone de Beauvoir",
+    "genre": "Essai",
+    "year": 1949,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Beauvoir analyse la construction sociale et historique de la condition féminine, montrant que la femme n'est pas née telle mais le devient sous l'effet des conditionnements culturels imposés par une société dominée par les hommes. L'ouvrage est central dans l'histoire de la pensée féministe mondiale et reste d'une actualité saisissante."
+  },
+  {
+    "title": "Surveiller et punir",
+    "author": "Michel Foucault",
+    "genre": "Essai",
+    "year": 1975,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Foucault analyse l'évolution des formes de punition et de surveillance depuis l'Ancien Régime jusqu'aux prisons modernes, montrant comment le pouvoir agit sur les corps et les institutions plutôt que par la contrainte visible. Un texte fondateur des sciences humaines contemporaines."
+  },
+  {
+    "title": "L'Art de la guerre",
+    "author": "Sun Tzu",
+    "genre": "Essai",
+    "year": -500,
+    "rating": 4,
+    "vu": true,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Ce traité en treize chapitres expose les principes fondamentaux de l'art militaire : connaissance de soi et de l'ennemi, adaptabilité, déception et économie des forces, résumés dans la formule Se connaître soi-même et connaître l'ennemi assure la victoire en cent batailles. Ses principes dépassent de loin le domaine militaire et sont appliqués aux affaires, à la politique et au sport."
+  },
+  {
+    "title": "Penser, vite et lentement",
+    "author": "Daniel Kahneman",
+    "genre": "Essai",
+    "year": 2011,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Kahneman expose deux systèmes de pensée qui gouvernent nos décisions : le système 1, rapide et intuitif, et le système 2, lent et analytique, en expliquant comment leurs interactions produisent de nombreux biais cognitifs que nous croyons à tort éviter. Un essai de psychologie cognitive d'une clarté et d'une richesse exceptionnelles."
+  },
+  {
+    "title": "La Désobéissance civile",
+    "author": "Henry David Thoreau",
+    "genre": "Essai",
+    "year": 1849,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Thoreau défend le droit moral de l'individu de refuser d'obéir à une loi qu'il juge injuste et affirme que la conscience individuelle prime sur la loi de la majorité. Ce texte fondateur a influencé Gandhi, Martin Luther King et de nombreux mouvements politiques non violents à travers le monde."
+  },
+  {
+    "title": "L'Origine des espèces",
+    "author": "Charles Darwin",
+    "genre": "Essai",
+    "year": 1859,
+    "rating": 5,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Darwin présente la théorie de l'évolution par sélection naturelle, montrant que les espèces vivantes se transforment progressivement sur des millions d'années en réponse aux pressions de leur environnement. Le livre a profondément et durablement transformé la compréhension du vivant et la place de l'homme dans la nature."
+  },
+  {
+    "title": "La Société du spectacle",
+    "author": "Guy Debord",
+    "genre": "Essai",
+    "year": 1967,
+    "rating": 4,
+    "vu": false,
+    "imagePath": "/images/defaut.png",
+    "synopsis": "Debord développe la thèse que la vie dans les sociétés modernes de consommation est dominée par des représentations et des images qui se substituent à l'expérience réelle, aliénant les individus de leur propre existence. Texte fondateur du situationnisme, il a profondément influencé Mai 68 et reste une référence pour la critique de la société contemporaine."
+  }
+]

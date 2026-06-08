@@ -1,0 +1,12 @@
+Stage (Fenêtre de dialogue)
+ └── Scene
+      └── VBox (Conteneur racine - Espacement 12, Padding 25)
+           ├── Label (titre : "Aide-moi à choisir !")
+           ├── Label (q1 : "Tu veux un livre que tu n'as pas encore lu ?")
+           ├── ComboBox<String> (rep1 : choix d'état de lecture)
+           ├── Label (q2 : "Note minimale ?")
+           ├── ComboBox<String> (rep2 : choix de notation)
+           ├── Label (q3 : "Un genre en particulier ?")
+           ├── ComboBox<String> (rep3 : liste des genres)
+           ├── Button (btnTrouver : "Trouver un livre !")
+           └── Label (resultat : affiche le texte de recommandation)

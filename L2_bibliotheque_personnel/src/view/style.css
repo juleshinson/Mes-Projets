@@ -1,0 +1,258 @@
+/*FOND GÉNÉRAL */
+.root {
+    -fx-background-color: #1a1d2e;
+    -fx-font-family: "Segoe UI";
+}
+
+/* TITRE PRINCIPAL */
+.titre-app {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #c9a96e;
+    -fx-padding: 12 20 12 20;
+    -fx-background-color: #14162a;
+}
+
+/*  BARRE DE MENU  */
+.menu-bar {
+    -fx-background-color: #14162a;
+    -fx-border-color: #2e3150;
+    -fx-border-width: 0 0 1 0;
+}
+.menu-bar .label {
+    -fx-text-fill: #c8cce8;
+    -fx-font-size: 14px;
+}
+.menu .label {
+    -fx-text-fill: #c8cce8;
+}
+.menu-item .label {
+    -fx-text-fill: #c8cce8;
+}
+.context-menu {
+    -fx-background-color: #252840;
+    -fx-border-color: #2e3150;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+}
+.menu-item:hover {
+    -fx-background-color: #2e3150;
+}
+
+/*  PANNEAUX  */
+.panneau-gauche {
+    -fx-background-color: #1f2238;
+    -fx-padding: 12;
+    -fx-spacing: 10;
+    -fx-border-color: #2e3150;
+    -fx-border-width: 0 1 0 0;
+}
+
+/*  CHAMPS DE SAISIE  */
+.text-field {
+    -fx-background-color: #252840;
+    -fx-text-fill: #e8e8f0;
+    -fx-prompt-text-fill: #5a5e7a;
+    -fx-border-color: #3a3d5c;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-font-size: 15px;
+    -fx-padding: 8 12;
+}
+.text-field:focused {
+    -fx-border-color: #c9a96e;
+    -fx-border-width: 2;
+}
+
+/*  TEXTAREA (synopsis)  */
+.text-area {
+    -fx-background-color: #252840;
+    -fx-text-fill: #e8e8f0;
+    -fx-border-color: #3a3d5c;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-font-size: 14px;
+}
+.text-area .content {
+    -fx-background-color: #252840;
+    -fx-background-radius: 6;
+}
+.text-area:focused {
+    -fx-border-color: #c9a96e;
+}
+
+/*  LISTE DES LIVRES  */
+.list-view {
+    -fx-background-color: #252840;
+    -fx-border-color: #3a3d5c;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+}
+.list-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: #c8cce8;
+    -fx-font-size: 15px;
+    -fx-padding: 10 14;
+}
+.list-cell:odd {
+    -fx-background-color: #1f2238;
+}
+.list-cell:hover {
+    -fx-background-color: #2e3150;
+    -fx-text-fill: #e8e8f0;
+}
+.list-cell:selected {
+    -fx-background-color: #c9a96e;
+    -fx-text-fill: #14162a;
+    -fx-font-weight: bold;
+}
+
+/*  COMBOBOX */
+.combo-box {
+    -fx-background-color: #252840;
+    -fx-border-color: #3a3d5c;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-font-size: 14px;
+}
+.combo-box .list-cell {
+    -fx-text-fill: #c8cce8;
+    -fx-background-color: transparent;
+    -fx-padding: 6 10;
+}
+.combo-box-popup .list-view {
+    -fx-background-color: #252840;
+    -fx-border-color: #3a3d5c;
+}
+.combo-box-popup .list-cell:hover {
+    -fx-background-color: #2e3150;
+}
+.combo-box-popup .list-cell:selected {
+    -fx-background-color: #c9a96e;
+    -fx-text-fill: #14162a;
+}
+.combo-box .arrow-button {
+    -fx-background-color: transparent;
+}
+.combo-box .arrow {
+    -fx-background-color: #c9a96e;
+}
+
+/*  BOUTONS PRINCIPAUX  */
+.button {
+    -fx-background-color: #3a5a8a;
+    -fx-text-fill: #e8e8f0;
+    -fx-font-weight: bold;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-cursor: hand;
+    -fx-font-size: 15px;
+}
+.button:hover {
+    -fx-background-color: #4a6a9a;
+}
+.button:pressed {
+    -fx-background-color: #2a4a7a;
+}
+
+/*  BOUTON SUPPRIMER (rouge)  */
+.btn-supprimer {
+    -fx-background-color: #8a2a2a;
+    -fx-text-fill: #e8e8f0;
+    -fx-font-weight: bold;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+.btn-supprimer:hover {
+    -fx-background-color: #a03030;
+}
+
+/* BOUTON AJOUTER (vert)*/
+.btn-ajouter {
+    -fx-background-color: #2a6a4a;
+    -fx-text-fill: #e8e8f0;
+    -fx-font-weight: bold;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+.btn-ajouter:hover {
+    -fx-background-color: #3a7a5a;
+}
+
+/* BOUTONS ÉTOILES*/
+.etoile-btn {
+    -fx-background-color: transparent;
+    -fx-text-fill: #4a4e6a;
+    -fx-border-color: transparent;
+    -fx-font-size: 28px;
+    -fx-cursor: hand;
+    -fx-padding: 2 4;
+}
+.etoile-btn:hover {
+    -fx-text-fill: #c9a96e;
+    -fx-background-color: transparent;
+}
+
+/* CHECKBOX*/
+.check-box .label {
+    -fx-text-fill: #c8cce8;
+    -fx-font-size: 16px;
+}
+.check-box .box {
+    -fx-background-color: #252840;
+    -fx-border-color: #3a3d5c;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+}
+.check-box:selected .mark {
+    -fx-background-color: #c9a96e;
+}
+.check-box:selected .box {
+    -fx-background-color: #252840;
+    -fx-border-color: #c9a96e;
+}
+
+/* LABELS DE DÉTAIL*/
+.label {
+    -fx-text-fill: #c8cce8;
+}
+.label-detail {
+    -fx-text-fill: #c8cce8;
+    -fx-font-size: 16px;
+    -fx-padding: 10;
+}
+
+/*SCROLLPANE*/
+.scroll-pane {
+    -fx-background-color: #252840;
+    -fx-border-color: #3a3d5c;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-padding: 4;
+}
+.scroll-pane .viewport {
+    -fx-background-color: #252840;
+}
+.scroll-pane .scroll-bar:vertical,
+.scroll-pane .scroll-bar:horizontal {
+    -fx-background-color: #1f2238;
+}
+.scroll-pane .scroll-bar .thumb {
+    -fx-background-color: #3a3d5c;
+    -fx-background-radius: 4;
+}
+.scroll-pane .scroll-bar .thumb:hover {
+    -fx-background-color: #c9a96e;
+}
+/* Suggestion Dialog */
+.titre-suggestion {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #c9a96e;
+}
+
+.label-suggestion {
+    -fx-text-fill: #c9a96e;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
