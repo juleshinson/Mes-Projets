@@ -1,4 +1,4 @@
-# 📚 BIBLIO.com — Plateforme de réservation de livres
+# 📚 BIBLIO.com : Plateforme de réservation de livres
 
 Projet universitaire réalisé en **L1 Informatique** à l'Université de Lorraine (juin 2025).
 
@@ -65,35 +65,37 @@ projet/
 ## Installation locale
 
 ### Prérequis
+
 - XAMPP (ou tout serveur Apache + PHP + MySQL)
 
 ### Étapes
 
 ```bash
 # 1. Cloner le dépôt dans le dossier htdocs de XAMPP
-git clone https://github.com/TON_USERNAME/biblio-reservation.git
-cd biblio-reservation
+git clone https://github.com/juleshinson/Mes-Projets.git
+cd Mes-Projets/L1_Base_de_donnee
 
 # 2. Importer la base de données
-# Ouvrir phpMyAdmin → Créer une base "biblio" → Importer biblio.sql
+# Ouvrir phpMyAdmin, créer une base "biblio", importer biblio.sql
 
-# 3. Configurer la connexion (si besoin)
+# 3. Configurer la connexion si besoin
 # Éditer projet/action/php/connect_db.php avec vos identifiants MySQL
 
 # 4. Lancer via le navigateur
-# http://localhost/biblio-reservation/projet/index.html
+# http://localhost/L1_Base_de_donnee/projet/index.html
 ```
 
 ---
 
 ## Aperçu du catalogue
 
-Le catalogue inclut 13 œuvres classiques et contemporaines :
+Le catalogue inclut 13 oeuvres classiques et contemporaines :
 *Les Misérables, Le Comte de Monte-Cristo, Candide, Frankenstein, Persepolis, L'Alchimiste...*
 
 ---
 
 ## Auteur
 
-**Tiburce Jules Hinson** — L1 Informatique, Université de Lorraine  
+**Tiburce Jules Hinson** : L1 Informatique, Université de Lorraine  
 [juleshinson1@gmail.com](mailto:juleshinson1@gmail.com)
+
