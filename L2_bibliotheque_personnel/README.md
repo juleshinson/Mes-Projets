@@ -1,4 +1,4 @@
-# 📖 Gestionnaire de Bibliothèque Personnelle — JavaFX / MVVM
+# 📖 Gestionnaire de Bibliothèque Personnelle : JavaFX / MVVM
 
 Projet personnel réalisé en **L2 Informatique** à l'Université de Lorraine (mai 2026).
 
@@ -87,5 +87,5 @@ src/
 
 ## Auteur
 
-**Tiburce Jules Hinson** — L2 Informatique, Université de Lorraine  
+**Tiburce Jules Hinson** : L2 Informatique, Université de Lorraine  
 [juleshinson1@gmail.com](mailto:juleshinson1@gmail.com)
