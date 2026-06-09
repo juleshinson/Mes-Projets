@@ -1,4 +1,4 @@
-# 🚀 Space Corridor — Jeu de vaisseau spatial en C
+# 🚀 Space Corridor : Jeu de vaisseau spatial en C
 
 Projet universitaire réalisé en **L1 Informatique** à l'Université de Lorraine (mai 2025).  
 Développé en binôme avec **Précieuse Ahoomey-Zunu**.
@@ -100,5 +100,5 @@ make doc
 
 ## Auteurs
 
-**Tiburce Jules Hinson** & **Précieuse Ahoomey-Zunu** — L1 Informatique, Université de Lorraine  
+**Tiburce Jules Hinson** & **Précieuse Ahoomey-Zunu** : L1 Informatique, Université de Lorraine  
 [juleshinson1@gmail.com](mailto:juleshinson1@gmail.com)
