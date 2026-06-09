@@ -89,7 +89,7 @@ make doc
 
 ---
 
-## Architecture — points notables
+## Architecture : points notables
 
 - **Séparation logique/graphique** : `world.c` gère l'état du jeu (positions, collisions, fin de partie) indépendamment du rendu
 - **Gestion des textures** : struct `ressources` centralise toutes les textures SDL + sons
