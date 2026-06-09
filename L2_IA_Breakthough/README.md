@@ -1,4 +1,4 @@
-# ♟️ Breakthrough IA — Minimax, Alpha-Beta & Monte-Carlo en Java
+# ♟️ Breakthrough IA : Minimax, Alpha-Beta & Monte-Carlo en Java
 
 Projet universitaire réalisé en **L2 Informatique** à l'Université de Lorraine (avril 2026).
 
@@ -99,5 +99,5 @@ Le projet inclut des tests de comparaison (`TestTempsComparaison`, `TestComparai
 
 ## Auteur
 
-**Tiburce Jules Hinson** — L2 Informatique, Université de Lorraine  
+**Tiburce Jules Hinson** : L2 Informatique, Université de Lorraine  
 [juleshinson1@gmail.com](mailto:juleshinson1@gmail.com)
