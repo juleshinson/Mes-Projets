@@ -1,4 +1,4 @@
-# ⚽ Simulation d'un match de football — NetLogo
+# ⚽ Simulation d'un match de football : NetLogo
 
 Projet universitaire réalisé en **L2 Informatique** à l'Université de Lorraine (décembre 2025).  
 Développé en groupe avec **Hamidouni**, **Mahsoun** et **Morel**.
@@ -51,5 +51,5 @@ Les paramètres (vitesse des joueurs, probabilité de passe, taille du terrain) 
 
 ## Auteurs
 
-**Tiburce Jules Hinson**, **Hamidouni**, **Mahsoun**, **Morel** — L2 Informatique, Université de Lorraine  
+**Tiburce Jules Hinson**, **Hamidouni**, **Mahsoun**, **Morel** : L2 Informatique, Université de Lorraine  
 [juleshinson1@gmail.com](mailto:juleshinson1@gmail.com)
