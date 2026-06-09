@@ -1,4 +1,4 @@
-# 🌀 Labyrinth — Jeu de labyrinthe JavaFX / MVVM
+# 🌀 Labyrinth : Jeu de labyrinthe JavaFX / MVVM
 
 Projet universitaire réalisé en **L2 Informatique** à l'Université de Lorraine (juin 2026).  
 Développé en collaboration avec **Précieuse Ahoomey-Zunu**.
@@ -112,5 +112,5 @@ La partie est sérialisée en JSON et stockée dans `data`. `INSERT OR REPLACE` 
 
 ## Auteurs
 
-**Tiburce Jules Hinson** & **Précieuse Ahoomey-Zunu** — L2 Informatique, Université de Lorraine  
+**Tiburce Jules Hinson** & **Précieuse Ahoomey-Zunu** : L2 Informatique, Université de Lorraine  
 [juleshinson1@gmail.com](mailto:juleshinson1@gmail.com)
