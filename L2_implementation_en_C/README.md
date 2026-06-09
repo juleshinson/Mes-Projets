@@ -1,4 +1,4 @@
-# 🗄️ Structures de données en C — Tableau, Liste chaînée, Hashmap
+# 🗄️ Structures de données en C : Tableau, Liste chaînée, Hashmap
 
 Projet universitaire réalisé en **L2 Informatique** à l'Université de Lorraine (décembre 2025).
 
@@ -136,5 +136,5 @@ gcc -Wall -Wextra sqlite3.c fonctions_communes.c hashmap.c main.c -o main
 
 ## Auteur
 
-**Tiburce Jules Hinson** — L2 Informatique, Université de Lorraine  
+**Tiburce Jules Hinson** : L2 Informatique, Université de Lorraine  
 [juleshinson1@gmail.com](mailto:juleshinson1@gmail.com)
